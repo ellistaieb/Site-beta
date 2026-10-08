@@ -1,5 +1,230 @@
 {
- "label":"PERSONAL & PROFESSIONAL DEVELOPMENT · NICE", "brand":"Space to move forward", "nav":["Home","How I Can Help","My Approach","About","Sessions & Fees","Contact"], "title":"Space to reconnect.<br><em>Perspective</em> to move forward.", "intro":"Personalised support through periods of stress, uncertainty and change, connecting your personal wellbeing with your professional aspirations.", "cta":"Request an appointment", "explore":"Explore my approach", "contact":"Get in touch", "back":"All areas of support", "skip":"Skip to content", "menu":"Menu", "close":"Close menu", "ambience":"A light-filled interior with natural materials, an illustrative atmosphere image", "caption":"Light, space, a moment to breathe. Illustrative image.",
- "needs":"What brings you here", "needs_intro":"You don’t need to know exactly where you’re heading. We can begin with what you are experiencing today.", "support_titles":["Rediscover confidence and balance","Navigate a personal transition","Find a new professional direction","Teenagers, students & young adults","Support your teams"], "support_intros":["When self-doubt takes over or everyday life feels overwhelming, find steadier ground and a kinder relationship with yourself.","Change can unsettle familiar routines. Take time to understand what matters and consider what comes next.","Reflect on your career, clarify your aspirations and shape a direction that feels right for you.","Find your place, prepare for an important milestone and move at your own pace, with support suited to your age and needs.","Create space for reflection and conversation around stress, confidence and professional transitions."],
- "situations":[["You question your abilities or your place.","Stress and mental overload affect your everyday life.","You want to set boundaries and find balance."],["You are going through a separation or a new stage of life.","Your familiar reference points are changing.","You want to make choices that reflect your priorities."],["You are considering a career change or a new role.","You want to understand your skills and motivations.","You are looking for a healthier relationship between work and personal life."],["Exams or decisions about your future feel daunting.","You would like to build your confidence.","You are moving into higher education or working life."],["Your teams are facing stress or change.","You would like to offer a confidence workshop.","You need support shaped around your organisation."]], "work_title":"What we can explore together", "work":["Self-esteem, personal boundaries, stress and everyday resources.","Needs, emotions, priorities and the next steps in your transition.","Values, skills, motivations and possible career directions. Career review — bilan de compétences is a structured exploration of your experience and professional plans within the French context. Its scope is agreed before any commitment; it is not presented as an overseas qualification.","Confidence, organisation, exam preparation and decisions about education. The framework for supporting minors is agreed with their legal guardians.","Workshops on stress, confidence and professional transitions. The format, objectives and arrangements are developed with you."], "recognise":"Perhaps this feels familiar…", "tools_title":"Tools shaped around your needs", "tools_intro":"The choice of tools depends on your situation, preferences and the agreed framework. We take time to discuss it together.", "tools":[["Hypnotherapy","An approach drawing on attention and imagination to explore different ways of experiencing a situation."],["Brief therapies","Work focused on a current difficulty, your resources and the changes you would like to consider."],["CBT-informed approaches","Ways to observe connections between thoughts, feelings and behaviours, and try different responses."],["Neurofeedback","A method providing feedback on recorded brain activity. Its suitability and practical arrangements are discussed within the proposed framework."],["Coaching","Space to clarify goals, recognise resources and put decisions into action."]], "approach_title":"An approach shaped<br><em>around your story.</em>", "approach_intro":"Everyone brings a different story. My approach begins with listening, understanding your needs and agreeing a framework that feels comfortable. The tools evolve with our work, in conversation with you.", "medical":"This support does not replace medical care when it is needed.", "about_title":"An attentive presence.<br><em>An open perspective.</em>", "professional":"Personal & Professional Development Consultant", "subtitle":"An integrative approach combining hypnotherapy, brief therapies, coaching and neurofeedback.", "about_intro":"In Nice, I offer space to put your experience into words, gain perspective and explore your next steps. Our work develops through dialogue and respect for your pace.", "steps_title":"What does working together look like?", "steps":[["Getting to know you","An initial conversation to understand your situation and what brings you here."],["Understanding your needs","Together, we clarify your priorities, goals and the framework for our work."],["Moving forward together","We adapt as we go and regularly reflect on what is proving useful."]], "fees_title":"A clear framework.<br><em>A personal journey.</em>", "fees_intro":"The programmes offer an indicative structure and can be personalised. We discuss your needs before agreeing an appropriate framework.", "fees_names":["Individual session","Confidence & self-esteem","Life transition","Exam preparation"], "fees_counts":["One session","5 sessions","8 sessions","4 sessions"], "provisional":"Provisional fees, to be confirmed before any commitment.", "enquire":"Career review — bilan de compétences & organisations: please enquire.", "faq_title":"A few helpful answers", "faq":[["Do I need to know exactly what I need?","No. You can begin with a situation, a question or a sense that something is difficult. We will clarify your needs together."],["Which tools will you use?","The choice depends on your needs and the agreed framework. No technique is used automatically."],["How many sessions should I expect?","We agree the pace and number of sessions together, and review them as we go. The programmes shown are indicative."],["Are sessions available in English?","Please confirm consultation languages when you get in touch. An English website does not imply that sessions are available in English."]], "invite":"Would you like space<br><em>to take stock?</em>", "invite_intro":"A first message is a simple way to begin a conversation.", "contact_title":"Let’s take time<br><em>to talk.</em>", "contact_intro":"A few words about your enquiry are enough. Please avoid sharing medical or sensitive information.", "location":"Nice · French Riviera", "form":["First name","Email","Phone (optional)","Area of support","Message","Organisation","Send my enquiry"], "choose":"Choose an area of support", "privacy_note":"Your contact details are used only to respond to your enquiry.", "privacy_link":"Privacy", "unavailable":"Online enquiries will be available soon.", "sending":"Sending…", "success":"Your enquiry has been sent. Thank you for your message.", "error":"Your enquiry could not be sent. Please try again or use the contact details provided.", "invalid":"Please check the required fields and enter a valid email address.", "booking":"Go to booking", "legal":"Legal information", "copyright":"Personal & professional development in Nice", "legal_pending":"Information to be completed and reviewed before publication.", "legal_text":"Publisher identity, legal status, contact details, publication director and hosting provider: to be completed. Text and images are protected under applicable rights. The atmosphere image is illustrative and does not depict the actual practice.", "privacy_text":"No advertising or tracking tools are installed. When enabled, the form collects your first name, email, optional phone number and enquiry so that you can receive a reply. Before activation, the data controller must specify their identity, legal basis, recipients, form provider, retention period and how to exercise your rights. You may lodge a complaint with the CNIL. Hosting logs and any international transfers must be documented.", "details_labels":["Address","Opening hours","Consultation languages","Session length","Session arrangements","Payment methods","Cancellation"]
+  "label": "PERSONAL & PROFESSIONAL DEVELOPMENT · NICE",
+  "brand": "Valérie Migueres",
+  "nav": [
+    "Home",
+    "How I Can Help",
+    "My Approach",
+    "About",
+    "Sessions & Fees",
+    "Contact"
+  ],
+  "title": "Find your balance.<br><em>Open up new possibilities.</em>",
+  "intro": "In Nice, Valérie Migueres offers personalised support through stress, self-doubt and change, bringing your personal wellbeing and professional aspirations into focus.",
+  "cta": "Request an appointment",
+  "explore": "Explore my approach",
+  "contact": "Get in touch",
+  "back": "All areas of support",
+  "skip": "Skip to content",
+  "menu": "Menu",
+  "close": "Close menu",
+  "ambience": "A light-filled interior with natural materials, an illustrative atmosphere image",
+  "caption": "Light, space, a moment to breathe. Illustrative image.",
+  "needs": "What brings you here",
+  "needs_intro": "You don’t need to know exactly where you’re heading. We can begin with what you are experiencing today.",
+  "support_titles": [
+    "Rediscover confidence and balance",
+    "Navigate a personal transition",
+    "Find a new professional direction",
+    "Teenagers, students & young adults",
+    "Support your teams"
+  ],
+  "support_intros": [
+    "When self-doubt takes over or everyday life feels overwhelming, find steadier ground and a kinder relationship with yourself.",
+    "Change can unsettle familiar routines. Take time to understand what matters and consider what comes next.",
+    "Reflect on your career, clarify your aspirations and shape a direction that feels right for you.",
+    "Find your place, prepare for an important milestone and move at your own pace, with support suited to your age and needs.",
+    "Create space for reflection and conversation around stress, confidence and professional transitions."
+  ],
+  "situations": [
+    [
+      "You question your abilities or your place.",
+      "Stress and mental overload affect your everyday life.",
+      "You want to set boundaries and find balance."
+    ],
+    [
+      "You are going through a separation or a new stage of life.",
+      "Your familiar reference points are changing.",
+      "You want to make choices that reflect your priorities."
+    ],
+    [
+      "You are considering a career change or a new role.",
+      "You want to understand your skills and motivations.",
+      "You are looking for a healthier relationship between work and personal life."
+    ],
+    [
+      "Exams or decisions about your future feel daunting.",
+      "You would like to build your confidence.",
+      "You are moving into higher education or working life."
+    ],
+    [
+      "Your teams are facing stress or change.",
+      "You would like to offer a confidence workshop.",
+      "You need support shaped around your organisation."
+    ]
+  ],
+  "work_title": "What we can explore together",
+  "work": [
+    "Self-esteem, personal boundaries, stress and everyday resources.",
+    "Needs, emotions, priorities and the next steps in your transition.",
+    "Values, skills, motivations and possible career directions. Career review — bilan de compétences is a structured exploration of your experience and professional plans within the French context. Its scope is agreed before any commitment; it is not presented as an overseas qualification.",
+    "Confidence, organisation, exam preparation and decisions about education. The framework for supporting minors is agreed with their legal guardians.",
+    "Workshops on stress, confidence and professional transitions. The format, objectives and arrangements are developed with you."
+  ],
+  "recognise": "Perhaps this feels familiar…",
+  "tools_title": "Tools shaped around your needs",
+  "tools_intro": "The choice of tools depends on your situation, preferences and the agreed framework. We take time to discuss it together.",
+  "tools": [
+    [
+      "Hypnotherapy",
+      "An approach drawing on attention and imagination to explore different ways of experiencing a situation."
+    ],
+    [
+      "Brief therapies",
+      "Work focused on a current difficulty, your resources and the changes you would like to consider."
+    ],
+    [
+      "CBT-informed approaches",
+      "Ways to observe connections between thoughts, feelings and behaviours, and try different responses."
+    ],
+    [
+      "Neurofeedback",
+      "A method providing feedback on recorded brain activity. Its suitability and practical arrangements are discussed within the proposed framework."
+    ],
+    [
+      "Coaching",
+      "Space to clarify goals, recognise resources and put decisions into action."
+    ]
+  ],
+  "approach_title": "An approach shaped<br><em>around your story.</em>",
+  "approach_intro": "Everyone brings a different story. My approach begins with listening, understanding your needs and agreeing a framework that feels comfortable. The tools evolve with our work, in conversation with you.",
+  "medical": "This support does not replace medical care when it is needed.",
+  "about_title": "An attentive presence.<br><em>An open perspective.</em>",
+  "professional": "Personal & Professional Development Consultant",
+  "subtitle": "An integrative approach combining hypnotherapy, brief therapies, coaching and neurofeedback.",
+  "about_intro": "In Nice, Valérie Migueres offers space to put your experience into words, gain perspective and explore your next steps. The work develops through dialogue and respect for your pace.",
+  "steps_title": "What does working together look like?",
+  "steps": [
+    [
+      "Getting to know you",
+      "An initial conversation to understand your situation and what brings you here."
+    ],
+    [
+      "Understanding your needs",
+      "Together, we clarify your priorities, goals and the framework for our work."
+    ],
+    [
+      "Moving forward together",
+      "We adapt as we go and regularly reflect on what is proving useful."
+    ]
+  ],
+  "fees_title": "A clear framework.<br><em>A personal journey.</em>",
+  "fees_intro": "The programmes offer an indicative structure and can be personalised. We discuss your needs before agreeing an appropriate framework.",
+  "fees_names": [
+    "Individual session",
+    "Confidence & self-esteem",
+    "Life transition",
+    "Exam preparation"
+  ],
+  "fees_counts": [
+    "One session",
+    "5 sessions",
+    "8 sessions",
+    "4 sessions"
+  ],
+  "provisional": "Provisional fees, to be confirmed before any commitment.",
+  "enquire": "Career review — bilan de compétences & organisations: please enquire.",
+  "faq_title": "A few helpful answers",
+  "faq": [
+    [
+      "Do I need to know exactly what I need?",
+      "No. You can begin with a situation, a question or a sense that something is difficult. We will clarify your needs together."
+    ],
+    [
+      "Which tools will you use?",
+      "The choice depends on your needs and the agreed framework. No technique is used automatically."
+    ],
+    [
+      "How many sessions should I expect?",
+      "We agree the pace and number of sessions together, and review them as we go. The programmes shown are indicative."
+    ],
+    [
+      "Are sessions available in English?",
+      "Please confirm consultation languages when you get in touch. An English website does not imply that sessions are available in English."
+    ]
+  ],
+  "invite": "Would you like space<br><em>to take stock?</em>",
+  "invite_intro": "A first message is a simple way to begin a conversation.",
+  "contact_title": "Let’s take time<br><em>to talk.</em>",
+  "contact_intro": "A few words about your enquiry are enough. Please avoid sharing medical or sensitive information.",
+  "location": "Nice · French Riviera",
+  "form": [
+    "First name",
+    "Email",
+    "Phone (optional)",
+    "Area of support",
+    "Message",
+    "Organisation",
+    "Send my enquiry"
+  ],
+  "choose": "Choose an area of support",
+  "privacy_note": "Your contact details are used only to respond to your enquiry. Please avoid medical or sensitive details.",
+  "privacy_link": "Privacy",
+  "unavailable": "Online enquiries will be available soon.",
+  "sending": "Sending…",
+  "success": "Your enquiry has been sent. Thank you for your message.",
+  "error": "Your enquiry could not be sent. Please try again or use the contact details provided.",
+  "invalid": "Please check the required fields and enter a valid email address.",
+  "booking": "Go to booking",
+  "legal": "Legal information",
+  "copyright": "Personal & professional development in Nice",
+  "legal_pending": "Information to be completed and reviewed before publication.",
+  "legal_text": "Publisher identity, legal status, contact details, publication director and hosting provider: to be completed. Text and images are protected under applicable rights. The atmosphere image is illustrative and does not depict the actual practice.",
+  "privacy_text": "No advertising or tracking tools are installed. When enabled, the form collects your first name, email, optional phone number and enquiry so that you can receive a reply. Before activation, the data controller must specify their identity, legal basis, recipients, form provider, retention period and how to exercise your rights. You may lodge a complaint with the CNIL. Hosting logs and any international transfers must be documented.",
+  "details_labels": [
+    "Address",
+    "Opening hours",
+    "Consultation languages",
+    "Session length",
+    "Session arrangements",
+    "Payment methods",
+    "Cancellation"
+  ],
+  "brand_line": "Personal & professional development · Nice",
+  "discover": "Explore areas of support",
+  "offer_link": "Explore this support",
+  "needs_summary": "Support with stress, confidence, life changes and career development in Nice.",
+  "hero_note": "Space to move forward, at your own pace.",
+  "company_hint": "Organisation (for a business enquiry)",
+  "nojs_send": "Submitting will open the contact service’s confirmation page.",
+  "anti_spam_label": "Leave this field empty",
+  "support_examples": [
+    [
+      "Self-doubt",
+      "Stress",
+      "Mental overload"
+    ],
+    [
+      "Separation",
+      "Life changes",
+      "Finding meaning"
+    ],
+    [
+      "Career change",
+      "A new role",
+      "Career review"
+    ],
+    [
+      "Exams",
+      "Education choices",
+      "Motivation"
+    ],
+    [
+      "Workshops",
+      "Team confidence",
+      "Professional transitions"
+    ]
+  ],
+  "welcome_signature": "Space to move forward.",
+  "language_choice": "Explore in English"
 }

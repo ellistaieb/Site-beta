@@ -1,23 +1,230 @@
 {
- "label":"ACCOMPAGNEMENT PERSONNEL & PROFESSIONNEL · NICE",
- "brand":"Un espace pour avancer", "nav":["Accueil","Accompagnements","Mon approche","À propos","Séances & tarifs","Contact"],
- "title":"Un espace pour vous recentrer.<br><em>Une nouvelle perspective</em> pour avancer.",
- "intro":"Je vous accompagne dans les périodes de stress, de doute et de transition, avec une approche personnalisée qui relie votre équilibre personnel à vos aspirations professionnelles.",
- "cta":"Prendre rendez-vous", "explore":"Découvrir mon approche", "contact":"Me contacter", "back":"Tous les accompagnements", "skip":"Aller au contenu", "menu":"Menu", "close":"Fermer le menu",
- "ambience":"Un intérieur lumineux aux matières naturelles, image d’ambiance illustrative", "caption":"Lumière, espace, respiration. Image d’ambiance.",
- "needs":"Ce qui vous amène", "needs_intro":"Il n’est pas toujours nécessaire de savoir exactement où aller. Nous pouvons commencer par ce que vous vivez aujourd’hui.",
- "support_titles":["Retrouver confiance et équilibre","Traverser une transition personnelle","Donner une nouvelle direction à sa vie professionnelle","Adolescents, étudiants & jeunes adultes","Accompagner vos équipes"],
- "support_intros":["Quand le doute prend trop de place ou que le quotidien devient lourd, retrouver des repères et une relation plus apaisée à soi.","Un changement peut bousculer l’équilibre. Prenez un temps pour comprendre ce qui compte et imaginer la suite.","Faire le point sur votre parcours, clarifier vos aspirations et construire une direction qui vous ressemble.","Trouver sa place, préparer une étape importante et avancer à son rythme, avec un accompagnement adapté à l’âge et aux besoins.","Ouvrir un espace de réflexion et de dialogue autour du stress, de la confiance et des transitions professionnelles."],
- "situations":[["Vous doutez de vos capacités ou de votre légitimité.","Le stress et la surcharge mentale occupent votre quotidien.","Vous souhaitez poser des limites et retrouver un équilibre."],["Vous traversez une séparation ou une nouvelle étape de vie.","Vos repères changent et vous avez besoin de recul.","Vous souhaitez faire des choix plus en accord avec vous-même."],["Vous envisagez une reconversion ou une évolution.","Vous souhaitez clarifier vos compétences et vos motivations.","Vous cherchez un meilleur équilibre entre vie personnelle et travail."],["Les examens ou l’orientation vous préoccupent.","Vous avez besoin de gagner en confiance.","Vous traversez le passage vers les études ou la vie active."],["Vos équipes font face au stress ou au changement.","Vous souhaitez proposer un atelier sur la confiance.","Vous cherchez un accompagnement adapté au contexte de votre entreprise."]],
- "work_title":"Les sujets que nous pouvons explorer", "work":["Estime de soi, limites personnelles, gestion du stress et ressources au quotidien.","Besoins, émotions, priorités et prochains pas dans cette transition.","Valeurs, compétences, motivations et possibilités d’évolution. Le bilan de compétences est un espace structuré pour examiner votre parcours et votre projet professionnel ; son cadre est précisé avant tout engagement.","Confiance, organisation, préparation aux examens et choix d’orientation. Le cadre de l’accompagnement des mineurs est défini avec les responsables légaux.","Ateliers autour du stress, de la confiance et des transitions professionnelles. Le format, les objectifs et les modalités sont définis avec vous."],
- "recognise":"Vous vous reconnaissez peut-être…", "tools_title":"Des outils au service de vos besoins", "tools_intro":"Le choix des outils dépend de votre situation, de vos préférences et du cadre de l’accompagnement. Nous prenons le temps d’en parler ensemble.",
- "tools":[["Hypnose","Une approche qui mobilise l’attention et l’imagination pour explorer d’autres façons de vivre une situation."],["Thérapies brèves","Un travail centré sur une difficulté actuelle, vos ressources et les changements que vous souhaitez envisager."],["Approches issues des TCC","Des pistes pour observer les liens entre pensées, émotions et comportements, et expérimenter d’autres réponses."],["Neurofeedback","Une méthode utilisant un retour sur l’activité cérébrale enregistrée. Sa pertinence et ses modalités se discutent selon le cadre proposé."],["Coaching","Un espace pour clarifier vos objectifs, identifier vos ressources et mettre vos décisions en mouvement."]],
- "approach_title":"Une approche adaptée<br><em>à votre histoire.</em>", "approach_intro":"Chaque personne arrive avec une histoire singulière. Mon accompagnement commence par l’écoute, la clarification de vos besoins et le choix d’un cadre qui vous convient. Les outils s’ajustent au fil des séances, avec vous.",
- "medical":"Cet accompagnement ne remplace pas un suivi médical lorsque celui-ci est nécessaire.",
- "about_title":"Une présence attentive.<br><em>Un regard ouvert.</em>", "professional":"Consultante en accompagnement et transformation personnelle et professionnelle", "subtitle":"Praticienne en accompagnement intégratif – Hypnose, thérapies brèves, coaching et neurofeedback", "about_intro":"À Nice, je vous propose un espace pour mettre des mots sur ce que vous traversez, prendre du recul et explorer vos prochaines étapes. La relation d’accompagnement se construit dans le dialogue et le respect de votre rythme.",
- "steps_title":"Comment se déroule l’accompagnement ?", "steps":[["Faire connaissance","Un premier échange pour parler de votre situation et comprendre votre demande."],["Clarifier vos besoins","Nous définissons ensemble vos priorités, vos objectifs et le cadre de l’accompagnement."],["Avancer ensemble","Nous ajustons le travail au fil des séances et réévaluons régulièrement ce qui vous est utile."]],
- "fees_title":"Un cadre clair,<br><em>un parcours personnel.</em>", "fees_intro":"Les parcours sont des formats indicatifs et personnalisables. Nous échangeons sur vos besoins avant de définir le cadre adapté.", "fees_names":["Séance individuelle","Confiance & estime de soi","Transition de vie","Préparation examens"], "fees_counts":["Une séance","5 séances","8 séances","4 séances"], "provisional":"Tarifs provisoires à confirmer avant tout engagement.", "enquire":"Bilan de compétences & entreprises : me contacter.",
- "faq_title":"Quelques repères", "faq":[["Dois-je savoir précisément ce dont j’ai besoin ?","Non. Vous pouvez commencer par une situation, une question ou un sentiment de difficulté. Nous clarifierons ensemble votre demande."],["Quel outil sera utilisé ?","Le choix se fait selon vos besoins et le cadre de l’accompagnement. Aucune technique n’est appliquée systématiquement."],["Combien de séances prévoir ?","Le rythme et le nombre de séances se discutent ensemble et peuvent évoluer. Les parcours présentés sont indicatifs."],["Puis-je consulter en anglais ?","Les langues de consultation sont à confirmer lors de votre prise de contact. La version anglaise du site ne garantit pas des séances en anglais."]],
- "invite":"Vous souhaitez faire le point<br><em>sur votre situation ?</em>", "invite_intro":"Un premier message pour ouvrir la conversation, simplement.",
- "contact_title":"Prenons le temps<br><em>d’échanger.</em>", "contact_intro":"Quelques mots suffisent pour présenter votre demande. Évitez de transmettre des informations médicales ou sensibles.", "location":"Nice · Côte d’Azur", "form":["Prénom","E-mail","Téléphone (facultatif)","Type d’accompagnement","Message","Entreprise","Envoyer ma demande"], "choose":"Choisir un accompagnement", "privacy_note":"Vos coordonnées servent uniquement à répondre à votre demande.", "privacy_link":"Confidentialité", "unavailable":"Le contact en ligne sera disponible prochainement.", "sending":"Envoi en cours…", "success":"Votre demande a bien été transmise. Merci pour votre message.", "error":"Votre demande n’a pas pu être transmise. Veuillez réessayer ou utiliser les coordonnées indiquées.", "invalid":"Veuillez vérifier les champs obligatoires et saisir une adresse e-mail valide.", "booking":"Accéder à la réservation", "legal":"Mentions légales", "copyright":"Accompagnement personnel & professionnel à Nice", "legal_pending":"Informations à compléter et à vérifier avant publication.", "legal_text":"Identité de l’éditeur, statut, coordonnées, responsable de publication et hébergeur : à renseigner. Les textes et visuels de ce site sont protégés selon les droits applicables. Image d’ambiance illustrative, sans représentation du cabinet réel.", "privacy_text":"Aucun outil publicitaire ni de suivi n’est installé. Le formulaire, lorsqu’il est activé, recueille votre prénom, votre e-mail, votre téléphone facultatif et votre demande pour permettre une réponse. Avant activation, le responsable de traitement doit préciser son identité, la base juridique, les destinataires, le prestataire de formulaire, la durée de conservation et les modalités d’exercice des droits. Vous pouvez saisir la CNIL. Les journaux techniques de l’hébergeur et les éventuels transferts doivent être documentés.", "details_labels":["Adresse","Horaires","Langues de consultation","Durée des séances","Modalités","Moyens de paiement","Annulation"]
+  "label": "ACCOMPAGNEMENT PERSONNEL & PROFESSIONNEL · NICE",
+  "brand": "Valérie Migueres",
+  "nav": [
+    "Accueil",
+    "Accompagnements",
+    "Mon approche",
+    "À propos",
+    "Séances & tarifs",
+    "Contact"
+  ],
+  "title": "Retrouver votre équilibre.<br><em>Ouvrir de nouvelles perspectives.</em>",
+  "intro": "À Nice, Valérie Migueres vous accompagne dans les périodes de stress, de doute et de transition, avec une approche personnalisée de votre vie personnelle et professionnelle.",
+  "cta": "Demander un rendez-vous",
+  "explore": "Découvrir mon approche",
+  "contact": "Me contacter",
+  "back": "Tous les accompagnements",
+  "skip": "Aller au contenu",
+  "menu": "Menu",
+  "close": "Fermer le menu",
+  "ambience": "Un intérieur lumineux aux matières naturelles, image d’ambiance illustrative",
+  "caption": "Lumière, espace, respiration. Image d’ambiance.",
+  "needs": "Ce qui vous amène",
+  "needs_intro": "Il n’est pas toujours nécessaire de savoir exactement où aller. Nous pouvons commencer par ce que vous vivez aujourd’hui.",
+  "support_titles": [
+    "Retrouver confiance et équilibre",
+    "Traverser une transition personnelle",
+    "Donner une nouvelle direction à sa vie professionnelle",
+    "Adolescents, étudiants & jeunes adultes",
+    "Accompagner vos équipes"
+  ],
+  "support_intros": [
+    "Quand le doute prend trop de place ou que le quotidien devient lourd, retrouver des repères et une relation plus apaisée à soi.",
+    "Un changement peut bousculer l’équilibre. Prenez un temps pour comprendre ce qui compte et imaginer la suite.",
+    "Faire le point sur votre parcours, clarifier vos aspirations et construire une direction qui vous ressemble.",
+    "Trouver sa place, préparer une étape importante et avancer à son rythme, avec un accompagnement adapté à l’âge et aux besoins.",
+    "Ouvrir un espace de réflexion et de dialogue autour du stress, de la confiance et des transitions professionnelles."
+  ],
+  "situations": [
+    [
+      "Vous doutez de vos capacités ou de votre légitimité.",
+      "Le stress et la surcharge mentale occupent votre quotidien.",
+      "Vous souhaitez poser des limites et retrouver un équilibre."
+    ],
+    [
+      "Vous traversez une séparation ou une nouvelle étape de vie.",
+      "Vos repères changent et vous avez besoin de recul.",
+      "Vous souhaitez faire des choix plus en accord avec vous-même."
+    ],
+    [
+      "Vous envisagez une reconversion ou une évolution.",
+      "Vous souhaitez clarifier vos compétences et vos motivations.",
+      "Vous cherchez un meilleur équilibre entre vie personnelle et travail."
+    ],
+    [
+      "Les examens ou l’orientation vous préoccupent.",
+      "Vous avez besoin de gagner en confiance.",
+      "Vous traversez le passage vers les études ou la vie active."
+    ],
+    [
+      "Vos équipes font face au stress ou au changement.",
+      "Vous souhaitez proposer un atelier sur la confiance.",
+      "Vous cherchez un accompagnement adapté au contexte de votre entreprise."
+    ]
+  ],
+  "work_title": "Les sujets que nous pouvons explorer",
+  "work": [
+    "Estime de soi, limites personnelles, gestion du stress et ressources au quotidien.",
+    "Besoins, émotions, priorités et prochains pas dans cette transition.",
+    "Valeurs, compétences, motivations et possibilités d’évolution. Le bilan de compétences est un espace structuré pour examiner votre parcours et votre projet professionnel ; son cadre est précisé avant tout engagement.",
+    "Confiance, organisation, préparation aux examens et choix d’orientation. Le cadre de l’accompagnement des mineurs est défini avec les responsables légaux.",
+    "Ateliers autour du stress, de la confiance et des transitions professionnelles. Le format, les objectifs et les modalités sont définis avec vous."
+  ],
+  "recognise": "Vous vous reconnaissez peut-être…",
+  "tools_title": "Des outils au service de vos besoins",
+  "tools_intro": "Le choix des outils dépend de votre situation, de vos préférences et du cadre de l’accompagnement. Nous prenons le temps d’en parler ensemble.",
+  "tools": [
+    [
+      "Hypnose",
+      "Une approche qui mobilise l’attention et l’imagination pour explorer d’autres façons de vivre une situation."
+    ],
+    [
+      "Thérapies brèves",
+      "Un travail centré sur une difficulté actuelle, vos ressources et les changements que vous souhaitez envisager."
+    ],
+    [
+      "Approches issues des TCC",
+      "Des pistes pour observer les liens entre pensées, émotions et comportements, et expérimenter d’autres réponses."
+    ],
+    [
+      "Neurofeedback",
+      "Une méthode utilisant un retour sur l’activité cérébrale enregistrée. Sa pertinence et ses modalités se discutent selon le cadre proposé."
+    ],
+    [
+      "Coaching",
+      "Un espace pour clarifier vos objectifs, identifier vos ressources et mettre vos décisions en mouvement."
+    ]
+  ],
+  "approach_title": "Une approche adaptée<br><em>à votre histoire.</em>",
+  "approach_intro": "Chaque personne arrive avec une histoire singulière. Mon accompagnement commence par l’écoute, la clarification de vos besoins et le choix d’un cadre qui vous convient. Les outils s’ajustent au fil des séances, avec vous.",
+  "medical": "Cet accompagnement ne remplace pas un suivi médical lorsque celui-ci est nécessaire.",
+  "about_title": "Une présence attentive.<br><em>Un regard ouvert.</em>",
+  "professional": "Consultante en accompagnement et transformation personnelle et professionnelle",
+  "subtitle": "Praticienne en accompagnement intégratif – Hypnose, thérapies brèves, coaching et neurofeedback",
+  "about_intro": "À Nice, Valérie Migueres vous propose un espace pour mettre des mots sur ce que vous traversez, prendre du recul et explorer vos prochaines étapes. La relation d’accompagnement se construit dans le dialogue et le respect de votre rythme.",
+  "steps_title": "Comment se déroule l’accompagnement ?",
+  "steps": [
+    [
+      "Faire connaissance",
+      "Un premier échange pour parler de votre situation et comprendre votre demande."
+    ],
+    [
+      "Clarifier vos besoins",
+      "Nous définissons ensemble vos priorités, vos objectifs et le cadre de l’accompagnement."
+    ],
+    [
+      "Avancer ensemble",
+      "Nous ajustons le travail au fil des séances et réévaluons régulièrement ce qui vous est utile."
+    ]
+  ],
+  "fees_title": "Un cadre clair,<br><em>un parcours personnel.</em>",
+  "fees_intro": "Les parcours sont des formats indicatifs et personnalisables. Nous échangeons sur vos besoins avant de définir le cadre adapté.",
+  "fees_names": [
+    "Séance individuelle",
+    "Confiance & estime de soi",
+    "Transition de vie",
+    "Préparation examens"
+  ],
+  "fees_counts": [
+    "Une séance",
+    "5 séances",
+    "8 séances",
+    "4 séances"
+  ],
+  "provisional": "Tarifs provisoires à confirmer avant tout engagement.",
+  "enquire": "Bilan de compétences & entreprises : me contacter.",
+  "faq_title": "Quelques repères",
+  "faq": [
+    [
+      "Dois-je savoir précisément ce dont j’ai besoin ?",
+      "Non. Vous pouvez commencer par une situation, une question ou un sentiment de difficulté. Nous clarifierons ensemble votre demande."
+    ],
+    [
+      "Quel outil sera utilisé ?",
+      "Le choix se fait selon vos besoins et le cadre de l’accompagnement. Aucune technique n’est appliquée systématiquement."
+    ],
+    [
+      "Combien de séances prévoir ?",
+      "Le rythme et le nombre de séances se discutent ensemble et peuvent évoluer. Les parcours présentés sont indicatifs."
+    ],
+    [
+      "Puis-je consulter en anglais ?",
+      "Les langues de consultation sont à confirmer lors de votre prise de contact. La version anglaise du site ne garantit pas des séances en anglais."
+    ]
+  ],
+  "invite": "Vous souhaitez faire le point<br><em>sur votre situation ?</em>",
+  "invite_intro": "Un premier message pour ouvrir la conversation, simplement.",
+  "contact_title": "Prenons le temps<br><em>d’échanger.</em>",
+  "contact_intro": "Quelques mots suffisent pour présenter votre demande. Évitez de transmettre des informations médicales ou sensibles.",
+  "location": "Nice · Côte d’Azur",
+  "form": [
+    "Prénom",
+    "E-mail",
+    "Téléphone (facultatif)",
+    "Type d’accompagnement",
+    "Message",
+    "Entreprise",
+    "Envoyer ma demande"
+  ],
+  "choose": "Choisir un accompagnement",
+  "privacy_note": "Vos coordonnées servent uniquement à répondre à votre demande. Évitez toute information médicale ou sensible.",
+  "privacy_link": "Confidentialité",
+  "unavailable": "Le contact en ligne sera disponible prochainement.",
+  "sending": "Envoi en cours…",
+  "success": "Votre demande a bien été transmise. Merci pour votre message.",
+  "error": "Votre demande n’a pas pu être transmise. Veuillez réessayer ou utiliser les coordonnées indiquées.",
+  "invalid": "Veuillez vérifier les champs obligatoires et saisir une adresse e-mail valide.",
+  "booking": "Accéder à la réservation",
+  "legal": "Mentions légales",
+  "copyright": "Accompagnement personnel & professionnel à Nice",
+  "legal_pending": "Informations à compléter et à vérifier avant publication.",
+  "legal_text": "Identité de l’éditeur, statut, coordonnées, responsable de publication et hébergeur : à renseigner. Les textes et visuels de ce site sont protégés selon les droits applicables. Image d’ambiance illustrative, sans représentation du cabinet réel.",
+  "privacy_text": "Aucun outil publicitaire ni de suivi n’est installé. Le formulaire, lorsqu’il est activé, recueille votre prénom, votre e-mail, votre téléphone facultatif et votre demande pour permettre une réponse. Avant activation, le responsable de traitement doit préciser son identité, la base juridique, les destinataires, le prestataire de formulaire, la durée de conservation et les modalités d’exercice des droits. Vous pouvez saisir la CNIL. Les journaux techniques de l’hébergeur et les éventuels transferts doivent être documentés.",
+  "details_labels": [
+    "Adresse",
+    "Horaires",
+    "Langues de consultation",
+    "Durée des séances",
+    "Modalités",
+    "Moyens de paiement",
+    "Annulation"
+  ],
+  "brand_line": "Accompagnement personnel & professionnel · Nice",
+  "discover": "Découvrir les accompagnements",
+  "offer_link": "Découvrir cet accompagnement",
+  "needs_summary": "Stress, confiance, transitions de vie et évolution professionnelle à Nice.",
+  "hero_note": "Un espace pour avancer, à votre rythme.",
+  "company_hint": "Entreprise (pour une demande professionnelle)",
+  "nojs_send": "L’envoi ouvrira la page de confirmation du service de contact.",
+  "anti_spam_label": "Laisser ce champ vide",
+  "support_examples": [
+    [
+      "Doute de soi",
+      "Stress",
+      "Surcharge mentale"
+    ],
+    [
+      "Séparation",
+      "Changement de vie",
+      "Recherche de sens"
+    ],
+    [
+      "Reconversion",
+      "Prise de poste",
+      "Bilan de compétences"
+    ],
+    [
+      "Examens",
+      "Orientation",
+      "Motivation"
+    ],
+    [
+      "Ateliers",
+      "Confiance en équipe",
+      "Transitions professionnelles"
+    ]
+  ],
+  "welcome_signature": "Un espace pour avancer.",
+  "language_choice": "Découvrir en français"
 }

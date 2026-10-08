@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "domain": "",
+  "name": "Valérie Migueres",
+  "domain": "https://ellistaieb.github.io/Site-beta",
   "email": "",
   "phone": "",
   "address": "",
@@ -12,13 +12,47 @@
   "cancellation": "",
   "booking_url": "",
   "contact_endpoint": "",
-  "portrait": "",
   "gallery": [],
-  "biography": {"fr": "", "en": ""},
-  "qualifications": {"fr": "", "en": ""},
+  "biography": {
+    "fr": "",
+    "en": ""
+  },
+  "qualifications": {
+    "fr": "",
+    "en": ""
+  },
   "legal_identity": "",
   "hosting": "",
   "privacy_contact": "",
   "prices_confirmed": false,
-  "prices": [75, 375, 600, 300]
+  "prices": [
+    75,
+    375,
+    600,
+    300
+  ],
+  "contact_provider": "formspree",
+  "indexing_enabled": false,
+  "images": {
+    "hero": {
+      "src": "",
+      "alt": {
+        "fr": "",
+        "en": ""
+      },
+      "position": "50% 50%"
+    },
+    "portrait": {
+      "src": "",
+      "alt": {
+        "fr": "Portrait de Valérie Migueres",
+        "en": "Portrait of Valérie Migueres"
+      },
+      "position": "50% 35%"
+    },
+    "share": {
+      "fr": "/assets/share-fr.jpg",
+      "en": "/assets/share-en.jpg"
+    }
+  }
 }

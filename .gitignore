@@ -1,0 +1,7 @@
+dist/
+__pycache__/
+*.log
+
+preview-*.png
+
+preview-desktop.png

@@ -101,3 +101,7 @@ PLAYWRIGHT_MODULE=/tmp/site-browser/node_modules/playwright node tests/browser.c
 ```
 
 Le serveur de prévisualisation doit tourner sur le port 8001. `PREVIEW_ORIGIN`, `SITE_BASE_PATH` et `CHROMIUM_PATH` permettent d’adapter le test. Vérifications : 27 pages, 320/390/768/1024/1440 px, liens et métadonnées, menu et focus clavier, formulaires FR/EN et piège anti-spam, choix d’offre et langue, tablette portrait/paysage, réduction des mouvements et navigation sans JavaScript. Les captures sont générées dans `review`.
+
+## Charte graphique premium
+
+La charte, les logos et les ressources modifiables sont dans [brand](brand/README.md). Consultez le [PDF 12 pages](brand/Valerie-Migueres-Charte-graphique.pdf) ou [téléchargez le kit complet](https://github.com/ellistaieb/Site-beta/raw/refs/heads/main/brand/Valerie-Migueres-Kit-graphique.zip).

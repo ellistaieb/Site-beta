@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-09",
+  "status": "local checks passed; external validation incomplete",
+  "site": {
+    "pages": 29,
+    "browser_checks_passed": 666,
+    "widths": [
+      320,
+      390,
+      768,
+      1024,
+      1440
+    ],
+    "legal_drafts": 6,
+    "local_storage_and_cookie_check": "none used by application on local legal pages",
+    "external_host_http_headers": "unverified"
+  },
+  "assets": {
+    "svg_png_templates": 54,
+    "logos_svg_png": 9,
+    "dimensions_valid": true,
+    "logos_and_title_png_transparent": true,
+    "svg_text_bounds_issues": [],
+    "thumbnail_jpg": 6,
+    "videos": [
+      {
+        "file": "social/exports/youtube/en/intro.mp4",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "codec": "h264",
+        "fps": 25,
+        "seconds": 3,
+        "audio_streams": 0
+      },
+      {
+        "file": "social/exports/youtube/fr/intro.mp4",
+        "dimensions": [
+          1920,
+          1080
+        ],
+        "codec": "h264",
+        "fps": 25,
+        "seconds": 3,
+        "audio_streams": 0
+      }
+    ]
+  },
+  "editor": {
+    "downloaded_svg_reflects_edits": true,
+    "safe_zones_excluded_from_export": true,
+    "long_title_blocks_export": true,
+    "local_photo_replace_reset": true,
+    "language_switch": true,
+    "widths": [
+      320,
+      390,
+      768,
+      1440
+    ]
+  },
+  "guide": {
+    "pages": 13,
+    "layout_overlaps": []
+  },
+  "gallery": {
+    "models": 54,
+    "platform_language_filters": "passed",
+    "delivery_links": 13,
+    "widths": [
+      320,
+      390,
+      768,
+      1440
+    ]
+  },
+  "sources": {
+    "consulted": 2,
+    "blocked": 12,
+    "details": "sources/checks.json"
+  },
+  "publication": {
+    "site_public_changes": false,
+    "social_posts_or_accounts": false,
+    "delivery_branch": "kit-reseaux-juridique"
+  }
+}

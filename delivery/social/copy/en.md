@@ -1,0 +1,102 @@
+# Textes prêts à adapter — EN
+
+Les consultations en anglais ne sont pas confirmées. Aucun compte ni message n’a été créé ou envoyé.
+
+## Whatsapp
+
+### description
+
+Valérie Migueres · Personal and professional development in Nice. Support with confidence, stress, life changes and career direction. Space to move forward.
+
+### a-propos
+
+Personal & professional development · Nice. Space to move forward.
+
+### accueil
+
+Hello and welcome. Thank you for your message. Please share your first name and the general purpose of your enquiry. Please avoid medical or sensitive information here.
+
+### absence
+
+Thank you for your message. I am not available to chat at the moment. I will read your enquiry when I am able to respond. Please avoid sharing medical or sensitive information.
+
+### reponses rapides
+
+**/fees**
+The fees shown are provisional and will be confirmed before any commitment: individual session €75; confidence and self-esteem, 5 sessions, €375; life transition, 8 sessions, €600; exam preparation, 4 sessions, €300. Career review — bilan de compétences and workplace support: please enquire.
+
+**/access**
+The support is based in Nice. The exact contact details and access arrangements will be provided before a confirmed appointment.
+
+**/appointment**
+To enquire about an appointment, please share your first name and the area of support you are interested in. A few words are enough; avoid medical or sensitive information. Practical arrangements and consultation languages are to be confirmed.
+
+
+## Instagram
+
+### piliers
+
+- Understand a difficulty
+- Explore the support
+- Get to know Valérie Migueres
+- Find practical information
+
+### legendes
+
+**pedagogie**
+As exams approach, expectations can feel overwhelming. Identifying one realistic next step can make the situation more concrete. This reminder does not replace support tailored to your needs. Save it if you would like to come back to it.
+
+**carrousel**
+Carrying it all? This carousel offers ways to name what feels heavy and consider one small, realistic adjustment. It is not a universal method. To explore your situation, discover Valérie Migueres’s support in Nice.
+
+**accompagnement**
+A career transition can raise questions about your skills, aspirations and balance. Career change, a new role or career review — bilan de compétences: the framework is agreed around your enquiry. The French career review is not presented as an overseas qualification. Explore the relevant website page.
+
+**faq**
+You do not need a perfectly worded enquiry. An initial conversation can help put your experience into words and clarify what you would like to explore. Find out more about my approach on the website.
+
+**reel**
+Where could you begin when you want to build confidence? This video opens a reflection on your reference points and situations where self-doubt appears. Adapt this caption to the video actually filmed before sharing.
+
+**story**
+Add the application’s Link sticker to direct viewers to the Contact page. The button within the image is not clickable.
+
+
+### stories a la une
+
+- About
+- Approach
+- Sessions
+- Practice
+- FAQ
+- Contact
+
+## Youtube
+
+### description chaine
+
+Valérie Migueres, Personal & Professional Development Consultant in Nice. Space to understand periods of stress, uncertainty and change, and explore personalised support. These videos offer general perspectives, not a diagnosis or individual care. Hypnotherapy, brief therapies, CBT-informed approaches, coaching, neurofeedback and career review — bilan de compétences are introduced in relation to people’s needs. Consultation languages are to be confirmed; an English website does not imply sessions in English. Information and enquiries: https://ellistaieb.github.io/Site-beta/en/
+
+### description video
+
+[TITLE]
+
+In this video: [the actual question explored and 2–3 points covered].
+
+Chapters:
+[00:00 — introduction: adjust to the final edit]
+[chapters checked against the finished video]
+
+Explore Valérie Migueres’s support in Nice: https://ellistaieb.github.io/Site-beta/en/how-i-can-help/
+Enquiries: https://ellistaieb.github.io/Site-beta/en/contact/
+
+This is general information and does not replace personalised support or medical care when needed. Please avoid medical or sensitive details in comments.
+[Credits for resources actually used, with the relevant permissions.]
+
+### premieres videos
+
+- Exam stress: when pressure builds — Notice expectations, distinguish what is within your control and choose a realistic next step.
+- Confidence: where could you begin? — Explore moments of self-doubt, recognise resources and notice inner dialogue without judgement.
+- Mental overload: how can you take stock? — Separate tasks, expectations and needs; reflect on boundaries and asking for support.
+- Career change: which questions matter? — Clarify motivations, values and skills; explain the French career review without promises of funding or outcomes.
+- What happens in a first session? — Listening, understanding the enquiry and discussing the framework; no invented duration or free offer.

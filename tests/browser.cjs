@@ -18,7 +18,7 @@ const fs=require('node:fs');const path=require('node:path');
    await page.goto(origin+opposite);check(await page.locator('.languages a[lang='+lang+']').getAttribute('href')===route,'reciprocal language '+route);
   }
  }
- check(visited.size===27,'27 pages found, actual '+visited.size);
+ check(visited.size===29,'29 pages found, actual '+visited.size);
  for(const width of [320,390,768,1024,1440]){
   await page.setViewportSize({width,height:950});
   for(const route of visited){await page.goto(origin+route);check(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'overflow '+width+' '+route);check(await page.locator('h1').count()===1,'single H1 '+route);

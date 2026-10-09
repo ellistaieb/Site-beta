@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://ellistaieb.github.io/Site-beta/sitemap.xml

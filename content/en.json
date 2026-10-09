@@ -226,5 +226,7 @@
     ]
   ],
   "welcome_signature": "Space to move forward.",
-  "language_choice": "Explore in English"
+  "language_choice": "Explore in English",
+  "terms": "Terms of Use",
+  "privacy_note_inactive": "The form is currently inactive: no message is sent. Please avoid entering medical or sensitive information."
 }

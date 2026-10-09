@@ -1,0 +1,92 @@
+{
+  "status": "draft",
+  "review_date": "2026-10-09",
+  "fields": {
+    "status": {
+      "fr": "Statut juridique de l’éditeur",
+      "en": "Publisher’s legal status",
+      "value": ""
+    },
+    "registered_name": {
+      "fr": "Dénomination légale, si différente",
+      "en": "Registered name, if different",
+      "value": ""
+    },
+    "registration": {
+      "fr": "Immatriculation et registre applicables",
+      "en": "Applicable registration and register",
+      "value": ""
+    },
+    "business_address": {
+      "fr": "Adresse professionnelle ou siège applicable",
+      "en": "Business or registered address",
+      "value": ""
+    },
+    "professional_email": {
+      "fr": "E-mail professionnel",
+      "en": "Professional email",
+      "value": ""
+    },
+    "professional_phone": {
+      "fr": "Téléphone professionnel",
+      "en": "Professional phone",
+      "value": ""
+    },
+    "publication_director": {
+      "fr": "Responsable de publication",
+      "en": "Publication director",
+      "value": ""
+    },
+    "vat": {
+      "fr": "TVA et autres informations applicables au statut",
+      "en": "VAT and other status-dependent information",
+      "value": ""
+    },
+    "professional_rules": {
+      "fr": "Informations relatives à une profession réglementée, uniquement si applicable",
+      "en": "Regulated-profession information, only where applicable",
+      "value": ""
+    },
+    "host_identity": {
+      "fr": "Entité contractuelle d’hébergement et coordonnées légales",
+      "en": "Contracting hosting entity and statutory contact details",
+      "value": ""
+    },
+    "controller_identity": {
+      "fr": "Identité et coordonnées du responsable de traitement",
+      "en": "Data controller identity and contact details",
+      "value": ""
+    },
+    "rights_contact": {
+      "fr": "Contact pour exercer les droits",
+      "en": "Contact for exercising data rights",
+      "value": ""
+    },
+    "hosting_roles": {
+      "fr": "Rôles et bases juridiques relatifs aux journaux d’hébergement",
+      "en": "Roles and lawful bases for hosting logs",
+      "value": ""
+    },
+    "hosting_retention": {
+      "fr": "Durée de conservation des journaux et justification",
+      "en": "Log retention period and justification",
+      "value": ""
+    },
+    "transfer_guarantees": {
+      "fr": "Localisation, transferts éventuels et garanties vérifiées",
+      "en": "Locations, possible transfers and verified safeguards",
+      "value": ""
+    }
+  },
+  "contact_future": {
+    "purpose": "",
+    "lawful_base": "",
+    "recipients": "",
+    "retention_justification": "",
+    "transfer_safeguards": ""
+  },
+  "audited_features": {
+    "contact_endpoint": "",
+    "booking_url": ""
+  }
+}

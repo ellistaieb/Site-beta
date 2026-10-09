@@ -1,6 +1,6 @@
 # Valérie Migueres — Accompagnement personnel & professionnel à Nice
 
-Site bilingue existant amélioré : 27 pages HTML, mêmes URLs françaises et anglaises, palette ivoire/vert, identité VM, composition abstraite légère et parcours vers une demande qualifiée. Python 3.12 suffit. Aucun framework, traçage, publicité ou dépendance applicative externe.
+Site bilingue existant amélioré : 29 pages HTML, mêmes URLs françaises et anglaises, palette ivoire/vert, identité VM, composition abstraite légère et parcours vers une demande qualifiée. Python 3.12 suffit. Aucun framework, traçage, publicité ou dépendance applicative externe.
 
 ## Prévisualisation
 
@@ -100,8 +100,14 @@ npm install --prefix /tmp/site-browser --cache /tmp/npm-cache playwright
 PLAYWRIGHT_MODULE=/tmp/site-browser/node_modules/playwright node tests/browser.cjs
 ```
 
-Le serveur de prévisualisation doit tourner sur le port 8001. `PREVIEW_ORIGIN`, `SITE_BASE_PATH` et `CHROMIUM_PATH` permettent d’adapter le test. Vérifications : 27 pages, 320/390/768/1024/1440 px, liens et métadonnées, menu et focus clavier, formulaires FR/EN et piège anti-spam, choix d’offre et langue, tablette portrait/paysage, réduction des mouvements et navigation sans JavaScript. Les captures sont générées dans `review`.
+Le serveur de prévisualisation doit tourner sur le port 8001. `PREVIEW_ORIGIN`, `SITE_BASE_PATH` et `CHROMIUM_PATH` permettent d’adapter le test. Vérifications : 29 pages, 320/390/768/1024/1440 px, liens et métadonnées, menu et focus clavier, formulaires FR/EN et piège anti-spam, choix d’offre et langue, tablette portrait/paysage, réduction des mouvements et navigation sans JavaScript. Les captures sont générées dans `review`.
 
 ## Charte graphique premium
 
 La charte, les logos et les ressources modifiables sont dans [brand](brand/README.md). Consultez le [PDF 12 pages](brand/Valerie-Migueres-Charte-graphique.pdf) ou [téléchargez le kit complet](https://github.com/ellistaieb/Site-beta/raw/refs/heads/main/brand/Valerie-Migueres-Kit-graphique.zip).
+
+## Kit réseaux et documents juridiques — version de travail
+
+Les livrables sont dans [delivery](delivery/README.md) : guide social 13 pages, studio modifiable, 54 visuels FR/EN, intros silencieuses et six brouillons juridiques. Cette version est préparée sur la branche `kit-reseaux-juridique`, sans modification du site publié sur `main`.
+
+Avant d’activer le contact ou une réservation, revoir `content/legal-content.json` et `content/legal-settings.json`, renseigner les données réelles et mettre à jour `audited_features`. Le build contrôle que ces fonctions correspondent à l’état juridique examiné. Cela ne constitue pas une validation juridique automatique.

@@ -1,0 +1,392 @@
+{
+  "fr": {
+    "draft": "Brouillon à compléter et valider avant publication. Les éléments entre crochets ne sont pas des informations confirmées. Ce document ne constitue pas une validation juridique de l’activité.",
+    "version": "Version de travail du 9 octobre 2026",
+    "missing": "À compléter selon le statut et le fonctionnement réels",
+    "legal": {
+      "title": "Mentions légales",
+      "description": "Brouillon des mentions légales de Valérie Migueres, accompagnement personnel et professionnel à Nice.",
+      "sections": [
+        {
+          "heading": "1. Éditeur du site",
+          "paragraphs": [
+            "Le site présente l’activité de Valérie Migueres : accompagnement personnel et professionnel à Nice. Le nom utilisé pour la présentation est confirmé ; la personne physique ou morale qui édite juridiquement le site doit être identifiée selon le statut réel de l’activité.",
+            "[À COMPLÉTER : statut, identité légale, adresse professionnelle ou siège, e-mail et téléphone. Selon le statut : immatriculation et registre applicables, capital pour une société si requis, TVA le cas échéant et autres mentions professionnelles applicables.]"
+          ]
+        },
+        {
+          "heading": "2. Responsable de publication",
+          "paragraphs": [
+            "[À COMPLÉTER : identité du responsable de publication selon l’organisation juridique réelle. Ne pas la déduire automatiquement du nom affiché.]"
+          ]
+        },
+        {
+          "heading": "3. Hébergement",
+          "paragraphs": [
+            "Le projet utilise GitHub Pages, avec un déploiement par GitHub Actions. Le fournisseur technique identifié est GitHub.",
+            "[À CONFIRMER : entité contractuelle d’hébergement, adresse et coordonnées légalement requises à partir de la documentation et du contrat actuels du prestataire. La dénomination et les coordonnées de l’hébergeur ne sont pas inventées dans ce brouillon.]"
+          ]
+        },
+        {
+          "heading": "4. Informations professionnelles",
+          "paragraphs": [
+            "L’activité présentée associe hypnose, thérapies brèves, approches issues des thérapies cognitives et comportementales, coaching, neurofeedback et bilan de compétences. Le site ne revendique aucune qualification réglementée, certification, convention de financement ou prise en charge non confirmée.",
+            "[À PRÉCISER, uniquement si applicable : informations exigées pour une profession réglementée, autorité compétente, titre et règles professionnelles.]"
+          ]
+        },
+        {
+          "heading": "5. Contenus et propriété intellectuelle",
+          "paragraphs": [
+            "Les textes, éléments graphiques et visuels sont utilisés selon leurs droits respectifs. Les polices ou ressources tierces restent soumises à leurs licences. Toute réutilisation au-delà des usages autorisés par la loi nécessite l’accord du titulaire concerné.",
+            "Les formes abstraites sont des éléments graphiques et ne représentent pas le cabinet. Les photos personnelles seront ajoutées uniquement après vérification des droits et de leur description."
+          ]
+        },
+        {
+          "heading": "6. Contact et état du document",
+          "paragraphs": [
+            "[À COMPLÉTER : coordonnées de contact de l’éditeur.] Les informations pratiques et légales manquantes doivent être renseignées avant de présenter cette page comme finalisée. Les CGU et la politique de confidentialité complètent cette page."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Conditions générales d’utilisation",
+      "description": "Brouillon des conditions d’utilisation du site de présentation de Valérie Migueres à Nice.",
+      "sections": [
+        {
+          "heading": "1. Objet et périmètre",
+          "paragraphs": [
+            "Le site présente l’accompagnement personnel et professionnel de Valérie Migueres à Nice, son approche et les moyens de demander des renseignements. Ces conditions portent sur l’utilisation du site ; elles ne constituent pas des conditions générales de vente ni un contrat d’accompagnement."
+          ]
+        },
+        {
+          "heading": "2. Accès et utilisation",
+          "paragraphs": [
+            "Le site est consultable sous réserve des interruptions techniques, opérations de maintenance et contraintes de connexion. L’utilisateur est invité à utiliser le site de manière licite et respectueuse, sans porter atteinte à sa sécurité ni aux droits d’autrui. Aucun compte utilisateur n’est proposé par le code actuel."
+          ]
+        },
+        {
+          "heading": "3. Portée des informations",
+          "paragraphs": [
+            "Les contenus donnent des repères généraux. Ils ne constituent pas un diagnostic, une prescription ou une promesse de résultat. L’accompagnement ne remplace pas un suivi médical lorsque celui-ci est nécessaire. Une situation individuelle et le cadre d’un éventuel accompagnement se discutent séparément.",
+            "Les tarifs sont actuellement indicatifs et provisoires, à confirmer avant tout engagement. Les langues de consultation, durées, modalités et conditions d’annulation ne sont pas déduites du contenu du site."
+          ]
+        },
+        {
+          "heading": "4. Demandes de contact et fonctions disponibles",
+          "paragraphs": [
+            "Dans la version examinée, le formulaire est désactivé tant que son endpoint n’est pas renseigné. Aucun calendrier, paiement ni vente en ligne n’est actif. Les détails saisis ne sont pas transmis par ce formulaire désactivé.",
+            "Une demande de contact ne vaut pas réservation ni acceptation d’un accompagnement. Si ces fonctions sont activées, leurs informations et conditions propres devront être communiquées avant toute confirmation. L’utilisateur est invité à ne pas transmettre de récit médical détaillé ni d’informations sensibles."
+          ]
+        },
+        {
+          "heading": "5. Propriété intellectuelle",
+          "paragraphs": [
+            "La consultation du site n’emporte pas cession des droits sur ses contenus. Les usages autorisés par la loi sont préservés. Les ressources tierces demeurent soumises à leurs licences ; une autorisation doit être demandée au titulaire concerné pour les autres réutilisations."
+          ]
+        },
+        {
+          "heading": "6. Liens externes",
+          "paragraphs": [
+            "Les liens éventuellement proposés peuvent conduire à des sites distincts, soumis à leurs propres conditions et politiques. Leur présence ne vaut pas approbation générale de leurs contenus. L’éditeur reste responsable dans les limites prévues par le droit applicable, notamment pour ses propres choix de liens."
+          ]
+        },
+        {
+          "heading": "7. Fiabilité et responsabilités",
+          "paragraphs": [
+            "L’éditeur veille à présenter des informations compréhensibles et à corriger les erreurs qui lui sont signalées. Il ne garantit pas un accès ininterrompu ni l’absence de toute erreur technique. Les responsabilités de chaque partie sont appréciées selon les faits et le droit applicable ; ces conditions n’excluent pas les responsabilités ou droits auxquels il ne peut légalement être dérogé."
+          ]
+        },
+        {
+          "heading": "8. Évolution des conditions",
+          "paragraphs": [
+            "Les conditions peuvent évoluer pour refléter une modification du site ou de son fonctionnement. Une version et une date seront affichées. Une modification du site ne change pas rétroactivement un accord distinct déjà conclu."
+          ]
+        },
+        {
+          "heading": "9. Droit applicable et échanges",
+          "paragraphs": [
+            "Le site présente une activité exercée en France. L’application du droit français est envisagée, sous réserve des règles impératives éventuellement applicables et des droits des utilisateurs. Aucun tribunal exclusif ni renonciation générale à un recours n’est imposé par ce brouillon.",
+            "[À VALIDER : identité de l’éditeur et contact de réclamation.] Une demande relative au site peut être adressée à l’éditeur lorsque ses coordonnées sont confirmées."
+          ]
+        },
+        {
+          "heading": "10. Conditions supplémentaires à préparer si nécessaire",
+          "paragraphs": [
+            "Avant une réservation engageante, un paiement ou une vente à distance : définir l’offre réelle, les prix confirmés, les modalités, les informations précontractuelles, les conditions d’annulation et de rétractation lorsqu’elles s’appliquent, et la médiation de la consommation si elle est requise. Aucun financement, remboursement ou dispositif contractuel n’est créé par les présentes CGU."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Confidentialité et cookies",
+      "description": "Brouillon de la politique de confidentialité : hébergement GitHub Pages, formulaire inactif et absence de traceurs applicatifs dans le code examiné.",
+      "sections": [
+        {
+          "heading": "1. Responsable et périmètre",
+          "paragraphs": [
+            "Cette politique décrit la version du site examinée le 9 octobre 2026. L’identité du responsable de traitement doit correspondre à l’entité qui décide effectivement des finalités et des moyens des traitements.",
+            "[À COMPLÉTER : identité légale et coordonnées du responsable de traitement ; e-mail pour exercer les droits. Ne pas assimiler automatiquement le nom de présentation à l’entité responsable.]"
+          ]
+        },
+        {
+          "heading": "2. Navigation et hébergement",
+          "paragraphs": [
+            "Le site est hébergé avec GitHub Pages. Le code applicatif examiné ne comporte ni compte utilisateur, ni statistiques, ni publicité, ni outil d’analyse comportementale. Les images, scripts et styles sont servis avec le site ; il n’intègre ni vidéo externe ni police distante.",
+            "La documentation officielle de GitHub Pages consultée indique que l’adresse IP des visiteurs est enregistrée et conservée à des fins de sécurité, qu’ils soient connectés à GitHub ou non. Les autres données techniques, la durée, les rôles et les usages exacts doivent être précisés à partir des documents et contrats applicables. L’audit du code ne remplace pas le contrôle complet des traitements d’hébergement."
+          ]
+        },
+        {
+          "heading": "3. Formulaire, réservation et données saisies",
+          "paragraphs": [
+            "Le formulaire de cette version est désactivé : son adresse d’envoi est vide. Le code ne transmet donc pas les champs de contact à Formspree. Une saisie peut rester temporairement visible dans le navigateur ; aucun stockage local applicatif de ces champs n’est programmé.",
+            "Aucun lien de réservation, paiement en ligne ou compte client n’est configuré. Formspree est une intégration prévue, pas un service de collecte actif dans cette version. Son activation nécessite une mise à jour de cette politique et de la notice du formulaire."
+          ]
+        },
+        {
+          "heading": "4. Finalités et bases légales",
+          "paragraphs": [
+            "Les traitements techniques nécessaires à la mise à disposition et à la sécurité du site doivent être attribués aux intervenants concernés. Pour ceux placés sous la responsabilité de l’éditeur, un intérêt légitime peut être envisagé après examen de la nécessité, de la proportionnalité et des droits des personnes ; le rôle propre du prestataire doit être distingué.",
+            "[À VALIDER : finalités, rôles et bases des journaux d’hébergement.] Pour un futur contact : une demande de rendez-vous à l’initiative d’une personne peut relever de mesures précontractuelles ; une demande générale peut relever d’un intérêt légitime à répondre, après analyse appropriée. Ces bases doivent être documentées avant activation. Le consentement n’est pas retenu automatiquement pour tous les traitements."
+          ]
+        },
+        {
+          "heading": "5. Destinataires et prestataires",
+          "paragraphs": [
+            "Les requêtes de navigation sont reçues par l’hébergeur. [À CONFIRMER : entité contractuelle, rôle et sous-traitants éventuels.] Aucun message n’est transmis au service de formulaire dans la configuration actuelle.",
+            "Si le formulaire est activé : préciser l’éditeur destinataire, le service d’envoi, les éventuels prestataires de messagerie, leurs rôles et les accès nécessaires. Les destinataires ne doivent pas être supposés à partir d’une fonction non configurée."
+          ]
+        },
+        {
+          "heading": "6. Durées de conservation",
+          "paragraphs": [
+            "Les durées doivent être définies selon chaque finalité, les besoins réellement justifiés et les obligations applicables ; aucune durée standard n’est inventée dans ce document.",
+            "[À CONFIRMER : durée des journaux de l’hébergeur et justification ; éventuelles contraintes d’accès ou d’effacement.] Avant d’activer les demandes : définir et justifier la durée nécessaire au traitement d’une demande, les règles de suppression, l’archivage éventuel et les obligations distinctes en cas de relation contractuelle."
+          ]
+        },
+        {
+          "heading": "7. Localisation et transferts",
+          "paragraphs": [
+            "La déclaration générale de confidentialité de GitHub consultée décrit des traitements dans plusieurs pays, dont les États-Unis, et indique recourir généralement aux clauses contractuelles types pour certains transferts. Ces indications générales ne suffisent pas à identifier les lieux et garanties applicables à cette instance ni le rôle contractuel précis de l’hébergeur.",
+            "[À VÉRIFIER : localisation effective, transferts hors Espace économique européen éventuels, base de transfert applicable et garanties documentées, y compris les sous-traitants. Ne pas déclarer une adéquation, un accord contractuel ou une certification sans vérification actuelle.] Les mêmes vérifications seront nécessaires pour un futur service d’envoi."
+          ]
+        },
+        {
+          "heading": "8. Vos droits",
+          "paragraphs": [
+            "Selon le traitement et sa base, vous pouvez demander l’accès, la rectification, l’effacement, la limitation, la portabilité lorsque ses conditions sont réunies et vous opposer à certains traitements. Un éventuel consentement peut être retiré sans remettre en cause la licéité des opérations antérieures. Tous ces droits ne s’appliquent pas de la même manière à tous les traitements.",
+            "[À COMPLÉTER : contact pour exercer les droits.] La réponse intervient selon les délais légaux, en principe dans le mois, avec prolongation possible dans les cas prévus par le RGPD et information de la personne. Une vérification d’identité n’est demandée que si elle est nécessaire et proportionnée. Vous pouvez adresser une réclamation à la CNIL : https://www.cnil.fr/."
+          ]
+        },
+        {
+          "heading": "9. Cookies et stockage sur votre appareil",
+          "paragraphs": [
+            "Le code examiné ne lit ni ne dépose de cookie de suivi et n’utilise ni localStorage ni sessionStorage. Aucun bandeau de consentement décoratif n’est ajouté : il n’y a pas de traceur applicatif non nécessaire activé à gérer dans cette version.",
+            "Cette conclusion concerne le code du site, pas un contrôle complet des en-têtes du prestataire distant. [À VÉRIFIER : cookies ou technologies ajoutés par l’hébergement et par toute intégration future.] Si des traceurs nécessitant un consentement sont ajoutés, prévoir un choix préalable réel, accessible, avec refus aussi simple que l’acceptation et possibilité de modifier les préférences."
+          ]
+        },
+        {
+          "heading": "10. Évolution et prudence dans les échanges",
+          "paragraphs": [
+            "Cette politique doit être révisée avant l’activation d’un formulaire, d’un outil de statistiques, d’une réservation, d’une vidéo externe ou de ressources distantes. Évitez d’envoyer des informations médicales ou sensibles dans une demande de contact. Les informations relatives à un accompagnement effectif doivent être encadrées séparément selon ses modalités réelles."
+          ]
+        }
+      ]
+    }
+  },
+  "en": {
+    "draft": "Draft to complete and review before publication. Items in square brackets are not confirmed information. This document is not a legal validation of the activity.",
+    "version": "Working version dated 9 October 2026",
+    "missing": "Complete according to the actual legal status and operation",
+    "legal": {
+      "title": "Legal information",
+      "description": "Draft legal information for Valérie Migueres, personal and professional development in Nice.",
+      "sections": [
+        {
+          "heading": "1. Website publisher",
+          "paragraphs": [
+            "The website presents Valérie Migueres’s personal and professional support in Nice. The presentation name is confirmed; the individual or legal entity publishing the website must be identified according to the activity’s actual legal status.",
+            "[TO COMPLETE: legal status, registered identity, business or registered address, email and phone. Depending on status: registration and applicable register, company capital where required, VAT if applicable and any other required professional information.]"
+          ]
+        },
+        {
+          "heading": "2. Publication director",
+          "paragraphs": [
+            "[TO COMPLETE: publication director’s identity according to the actual legal organisation. Do not infer it automatically from the name displayed.]"
+          ]
+        },
+        {
+          "heading": "3. Hosting",
+          "paragraphs": [
+            "The project uses GitHub Pages, deployed through GitHub Actions. The identified technical provider is GitHub.",
+            "[TO CONFIRM: contracting hosting entity, address and statutory contact details from the provider’s current documentation and contract. This draft does not invent the host’s legal identity or contact details.]"
+          ]
+        },
+        {
+          "heading": "4. Professional information",
+          "paragraphs": [
+            "The activity described combines hypnotherapy, brief therapies, CBT-informed approaches, coaching, neurofeedback and career review — bilan de compétences. The site does not claim any unconfirmed regulated qualification, certification, funding arrangement or reimbursement.",
+            "[TO SPECIFY, only if applicable: disclosures required for a regulated profession, competent authority, professional title and rules.]"
+          ]
+        },
+        {
+          "heading": "5. Content and intellectual property",
+          "paragraphs": [
+            "Text, graphic elements and images are used subject to their respective rights. Third-party fonts and resources retain their licences. Reuse beyond the uses allowed by law requires permission from the relevant rights holder.",
+            "Abstract shapes are graphic elements and do not depict the practice. Personal photographs will be added only after checking their permissions and descriptions."
+          ]
+        },
+        {
+          "heading": "6. Contact and document status",
+          "paragraphs": [
+            "[TO COMPLETE: the publisher’s contact details.] Missing practical and legal details must be supplied before this page is presented as final. The Terms of Use and privacy policy complement this page."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "description": "Draft terms for the informational website of Valérie Migueres in Nice.",
+      "sections": [
+        {
+          "heading": "1. Purpose and scope",
+          "paragraphs": [
+            "The site presents Valérie Migueres’s personal and professional support in Nice, her approach and ways to enquire. These terms govern website use; they are not terms of sale or an agreement for individual support."
+          ]
+        },
+        {
+          "heading": "2. Access and use",
+          "paragraphs": [
+            "Access is subject to technical interruptions, maintenance and connection constraints. Users should use the website lawfully and respectfully, without compromising its security or others’ rights. The current code does not provide user accounts."
+          ]
+        },
+        {
+          "heading": "3. Scope of information",
+          "paragraphs": [
+            "Content offers general perspectives. It is not a diagnosis, prescription or guarantee of results. The support does not replace medical care when needed. Individual circumstances and the framework of possible support are discussed separately.",
+            "Fees are currently indicative and provisional, to be confirmed before any commitment. Consultation languages, session length, practical arrangements and cancellation terms must not be inferred from website content."
+          ]
+        },
+        {
+          "heading": "4. Enquiries and available functions",
+          "paragraphs": [
+            "In the examined version, the form is disabled until its endpoint is configured. No calendar, payment or online sale is active. Details entered are not sent through the disabled form.",
+            "An enquiry is not a booking or acceptance of support. If these functions are enabled, their specific information and terms must be communicated before confirmation. Users are asked not to submit detailed medical accounts or sensitive information."
+          ]
+        },
+        {
+          "heading": "5. Intellectual property",
+          "paragraphs": [
+            "Viewing the website does not transfer rights in its content. Uses permitted by law remain available. Third-party resources retain their licences; other reuse requires permission from the relevant rights holder."
+          ]
+        },
+        {
+          "heading": "6. External links",
+          "paragraphs": [
+            "Links may lead to separate websites with their own terms and policies. Including a link does not imply general approval of that website’s content. The publisher remains responsible within the limits of applicable law, including for its own linking decisions."
+          ]
+        },
+        {
+          "heading": "7. Accuracy and responsibilities",
+          "paragraphs": [
+            "The publisher seeks to provide understandable information and correct reported errors. Uninterrupted access and freedom from all technical errors are not guaranteed. Each party’s responsibilities depend on the facts and applicable law; these terms do not exclude liability or rights that cannot lawfully be waived."
+          ]
+        },
+        {
+          "heading": "8. Changes to these terms",
+          "paragraphs": [
+            "Terms may change to reflect the website or its operation. A version and date will be displayed. Website changes do not retrospectively alter a separate agreement already concluded."
+          ]
+        },
+        {
+          "heading": "9. Applicable law and enquiries",
+          "paragraphs": [
+            "The website presents an activity based in France. French law is envisaged, subject to any applicable mandatory rules and users’ rights. This draft imposes no exclusive court or general waiver of remedies.",
+            "[TO REVIEW: publisher identity and complaints contact.] Website enquiries may be directed to the publisher when its details are confirmed."
+          ]
+        },
+        {
+          "heading": "10. Additional terms where needed",
+          "paragraphs": [
+            "Before binding bookings, payments or distance sales: define the actual offering, confirmed prices, arrangements, pre-contract information, cancellation and withdrawal rules where applicable, and consumer mediation where required. These Terms of Use create no fictional funding, reimbursement or commercial conditions."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Privacy and cookies",
+      "description": "Draft privacy policy: GitHub Pages hosting, inactive contact form and no application tracking in the examined code.",
+      "sections": [
+        {
+          "heading": "1. Controller and scope",
+          "paragraphs": [
+            "This policy describes the version examined on 9 October 2026. The controller’s identity must match the entity that actually decides the purposes and means of processing.",
+            "[TO COMPLETE: the controller’s legal identity and contact details, including a rights contact email. Do not automatically equate the presentation name with the responsible entity.]"
+          ]
+        },
+        {
+          "heading": "2. Browsing and hosting",
+          "paragraphs": [
+            "The website uses GitHub Pages. The examined application code has no user accounts, statistics, advertising or behavioural analytics. Images, scripts and styles are served with the website; it embeds no external videos or remotely hosted fonts.",
+            "The consulted official GitHub Pages documentation states that visitors’ IP addresses are logged and stored for security purposes, whether or not they are signed into GitHub. Other technical data, retention, roles and exact uses must be specified from applicable documentation and contracts. Code inspection does not replace a full review of hosting processing."
+          ]
+        },
+        {
+          "heading": "3. Form, booking and entered information",
+          "paragraphs": [
+            "The form is disabled in this version: its submission address is empty. The code therefore does not transmit contact fields to Formspree. Entered details may remain temporarily visible in the browser; the application does not program local storage of these fields.",
+            "No booking link, online payment or client account is configured. Formspree is a planned integration, not an active collection service in this version. Enabling it requires updating this policy and the form notice."
+          ]
+        },
+        {
+          "heading": "4. Purposes and lawful bases",
+          "paragraphs": [
+            "Technical processing necessary for website availability and security must be attributed to the relevant parties. For processing controlled by the publisher, legitimate interests may be considered after assessing necessity, proportionality and individuals’ rights; the provider’s own role must be distinguished.",
+            "[TO REVIEW: hosting-log purposes, roles and lawful bases.] For future enquiries, appointment requests initiated by an individual may involve pre-contractual steps; general enquiries may involve legitimate interests in replying, subject to appropriate assessment. These bases must be documented before enabling collection. Consent is not automatically used for all processing."
+          ]
+        },
+        {
+          "heading": "5. Recipients and providers",
+          "paragraphs": [
+            "Browsing requests reach the hosting provider. [TO CONFIRM: contracting entity, role and possible subprocessors.] No message is sent to the form service in the current configuration.",
+            "If the form is enabled: specify the publisher receiving enquiries, submission and email providers, their roles and necessary access. Recipients must not be inferred from an unconfigured function."
+          ]
+        },
+        {
+          "heading": "6. Retention",
+          "paragraphs": [
+            "Periods must reflect each purpose, justified actual needs and applicable obligations; this document invents no standard period.",
+            "[TO CONFIRM: hosting-log retention and justification, including any access or erasure constraints.] Before enabling enquiries: define and justify the period needed to handle them, deletion rules, possible archiving and separate obligations arising from a contractual relationship."
+          ]
+        },
+        {
+          "heading": "7. Locations and transfers",
+          "paragraphs": [
+            "The consulted GitHub General Privacy Statement describes processing in several countries, including the United States, and generally relying on standard contractual clauses for certain transfers. These general statements do not establish the locations and safeguards for this instance or the host’s exact contractual role.",
+            "[TO VERIFY: actual locations, possible transfers outside the European Economic Area, applicable transfer basis and documented safeguards, including subprocessors. Do not assert adequacy, contractual arrangements or certification without current verification.] Equivalent checks will be required for a future submission service."
+          ]
+        },
+        {
+          "heading": "8. Your rights",
+          "paragraphs": [
+            "Depending on processing and its basis, you may request access, rectification, erasure, restriction and portability where its conditions apply, and object to certain processing. Any consent may be withdrawn without affecting earlier lawful processing. Not every right applies identically to every operation.",
+            "[TO COMPLETE: rights contact.] Responses follow statutory time limits, generally within one month, with extensions possible in the circumstances provided by the GDPR and notification to the individual. Identity checks are requested only where necessary and proportionate. You may complain to the CNIL: https://www.cnil.fr/."
+          ]
+        },
+        {
+          "heading": "9. Cookies and device storage",
+          "paragraphs": [
+            "The examined code neither reads nor sets tracking cookies and uses neither localStorage nor sessionStorage. No decorative consent banner is added: this version has no active non-essential application tracker to manage.",
+            "This finding concerns website code, not a complete inspection of the remote host’s response headers. [TO VERIFY: cookies or technologies added by hosting or future integrations.] If consent-requiring trackers are added, provide a genuine accessible prior choice, refusal as easy as acceptance and a way to change preferences."
+          ]
+        },
+        {
+          "heading": "10. Changes and care in enquiries",
+          "paragraphs": [
+            "Review this policy before enabling a form, statistics tool, booking, external video or remote resources. Please avoid medical or sensitive details in an enquiry. Processing during actual support must be addressed separately according to its real arrangements."
+          ]
+        }
+      ]
+    }
+  }
+}

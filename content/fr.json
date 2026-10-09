@@ -226,5 +226,7 @@
     ]
   ],
   "welcome_signature": "Un espace pour avancer.",
-  "language_choice": "Découvrir en français"
+  "language_choice": "Découvrir en français",
+  "terms": "CGU",
+  "privacy_note_inactive": "Le formulaire est actuellement inactif : aucun message n’est transmis. Évitez de saisir des informations médicales ou sensibles."
 }

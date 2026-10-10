@@ -1,0 +1,112 @@
+{
+  "fr": {
+    "title": "L’identité de la marque.<br><em>Les ressources à partager.</em>",
+    "description": "Découvrez les guides et les modèles de Valérie Migueres. Les fichiers sont organisés par plateforme et langue, et peuvent être adaptés sans photo.",
+    "note": "Le studio traite les photos dans votre navigateur. Les modifications ne sont pas enregistrées automatiquement : téléchargez vos fichiers avant de fermer. Les pages juridiques restent à compléter ; les visuels sociaux doivent être revus dans chaque application avant diffusion.",
+    "items": [
+      {
+        "label": "01 · IDENTITÉ SOCIALE",
+        "title": "Guide Instagram, WhatsApp & YouTube",
+        "description": "La palette, les typographies et les règles de composition de la marque, illustrées par de vrais exemples. PDF de 13 pages.",
+        "button": "Voir le guide",
+        "href": "/delivery/social/Guide-reseaux-Valerie-Migueres.pdf",
+        "download": false
+      },
+      {
+        "label": "02 · KIT COMPLET",
+        "title": "Tous les modèles à télécharger",
+        "description": "54 modèles en français et anglais, logos transparents, intros silencieuses, textes et fichiers modifiables, réunis dans une archive ZIP.",
+        "button": "Télécharger le kit",
+        "href": "/delivery/Kit-reseaux-juridique-Valerie-Migueres.zip",
+        "download": true
+      },
+      {
+        "label": "03 · APERÇU",
+        "title": "Explorer les visuels",
+        "description": "Parcourez les exemples par plateforme et langue, puis téléchargez les SVG modifiables et les images.",
+        "button": "Voir les modèles",
+        "href": "/delivery/index.html",
+        "download": false
+      },
+      {
+        "label": "04 · MODIFICATION",
+        "title": "Adapter un modèle",
+        "description": "Changez les textes et ajoutez votre propre photo dans le studio. Téléchargez le SVG ou le JSON pour conserver vos modifications.",
+        "button": "Ouvrir le studio",
+        "href": "/delivery/social/editor.html",
+        "download": false
+      },
+      {
+        "label": "05 · MARQUE",
+        "title": "La charte graphique premium",
+        "description": "Retrouvez l’identité générale de Valérie Migueres, sa palette et ses signatures typographiques. PDF de 12 pages.",
+        "button": "Voir la charte",
+        "href": "/brand/Valerie-Migueres-Charte-graphique.pdf",
+        "download": false
+      },
+      {
+        "label": "06 · VALIDATION",
+        "title": "Les points à compléter",
+        "description": "Photos, informations pratiques, statut juridique et traitements de données : les éléments qui restent à confirmer sont recensés.",
+        "button": "Lire les points à valider",
+        "href": "/delivery/POINTS-A-VALIDER.md",
+        "download": false
+      }
+    ]
+  },
+  "en": {
+    "title": "The brand identity.<br><em>Resources to share.</em>",
+    "description": "Explore Valérie Migueres’s guides and templates. Files are organised by platform and language and work with or without a photo.",
+    "note": "The studio processes photographs in your browser. Changes are not saved automatically: download your files before closing. Legal pages still need completing; check social visuals in each application before sharing.",
+    "items": [
+      {
+        "label": "01 · SOCIAL IDENTITY",
+        "title": "Instagram, WhatsApp & YouTube guide",
+        "description": "Brand colours, typography and composition rules, illustrated with actual examples. A 13-page PDF.",
+        "button": "View the guide",
+        "href": "/delivery/social/Guide-reseaux-Valerie-Migueres.pdf",
+        "download": false
+      },
+      {
+        "label": "02 · COMPLETE KIT",
+        "title": "Download all the templates",
+        "description": "54 templates in separate French and English versions, transparent logos, silent intros, copy and editable files in one ZIP archive.",
+        "button": "Download the kit",
+        "href": "/delivery/Kit-reseaux-juridique-Valerie-Migueres.zip",
+        "download": true
+      },
+      {
+        "label": "03 · PREVIEW",
+        "title": "Explore the visuals",
+        "description": "Browse examples by platform and language, then download editable SVG files and exported images.",
+        "button": "Browse templates",
+        "href": "/delivery/index.html",
+        "download": false
+      },
+      {
+        "label": "04 · EDITING",
+        "title": "Make a template your own",
+        "description": "Change the copy and add your own photo in the studio. Download the SVG or JSON to keep your changes.",
+        "button": "Open the studio",
+        "href": "/delivery/social/editor.html",
+        "download": false
+      },
+      {
+        "label": "05 · BRAND",
+        "title": "Premium brand guidelines",
+        "description": "Explore Valérie Migueres’s overall identity, colour palette and typographic signatures. A 12-page PDF.",
+        "button": "View brand guidelines",
+        "href": "/brand/Valerie-Migueres-Charte-graphique.pdf",
+        "download": false
+      },
+      {
+        "label": "06 · REVIEW",
+        "title": "Details still to complete",
+        "description": "Photographs, practical details, legal status and data processing: the remaining points to confirm are listed here.",
+        "button": "Read the checklist",
+        "href": "/delivery/POINTS-A-VALIDER.md",
+        "download": false
+      }
+    ]
+  }
+}

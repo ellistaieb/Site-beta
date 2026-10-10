@@ -1,8 +1,10 @@
 # Terms of Use
 
-Working version dated 9 October 2026
+Version to complete dated 10 October 2026
 
-Draft to complete and review before publication. Items in square brackets are not confirmed information. This document is not a legal validation of the activity.
+Published document with information still to complete and review. Items in square brackets are not confirmed. This document is not a legal validation of the activity.
+
+Draft terms for the informational website of Valérie Migueres in Nice.
 
 ## 1. Purpose and scope
 
@@ -24,6 +26,8 @@ In the examined version, the form is disabled until its endpoint is configured. 
 
 An enquiry is not a booking or acceptance of support. If these functions are enabled, their specific information and terms must be communicated before confirmation. Users are asked not to submit detailed medical accounts or sensitive information.
 
+You can contact Valérie Migueres by email at migueresv@gmail.com or by phone at +33 6 63 83 44 50. The Instagram link opens an external service; it loads no Instagram content into this website.
+
 ## 5. Intellectual property
 
 Viewing the website does not transfer rights in its content. Uses permitted by law remain available. Third-party resources retain their licences; other reuse requires permission from the relevant rights holder.
@@ -44,8 +48,14 @@ Terms may change to reflect the website or its operation. A version and date wil
 
 The website presents an activity based in France. French law is envisaged, subject to any applicable mandatory rules and users’ rights. This draft imposes no exclusive court or general waiver of remedies.
 
-[TO REVIEW: publisher identity and complaints contact.] Website enquiries may be directed to the publisher when its details are confirmed.
+Website questions and complaints can be sent to migueresv@gmail.com. [TO REVIEW: publisher’s legal identity.]
 
 ## 10. Additional terms where needed
 
 Before binding bookings, payments or distance sales: define the actual offering, confirmed prices, arrangements, pre-contract information, cancellation and withdrawal rules where applicable, and consumer mediation where required. These Terms of Use create no fictional funding, reimbursement or commercial conditions.
+
+## Complete according to the actual legal status and operation
+
+Registered name, if different: [TO COMPLETE / CONFIRM]
+
+Professional email: migueresv@gmail.com

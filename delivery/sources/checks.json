@@ -2,85 +2,123 @@
   {
     "id": "cnil-information",
     "url": "https://www.cnil.fr/fr/rgpd-exemples-de-mentions-dinformation",
+    "date": "2026-10-10",
     "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "error": "HTTP Error 403: Forbidden",
+    "content_verified": false
   },
   {
     "id": "cnil-cookies",
     "url": "https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies/que-dit-la-loi",
+    "date": "2026-10-10",
     "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "error": "HTTP Error 403: Forbidden",
+    "content_verified": false
   },
   {
     "id": "cnil-retention",
     "url": "https://www.cnil.fr/fr/les-durees-de-conservation-des-donnees",
+    "date": "2026-10-10",
     "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "error": "HTTP Error 403: Forbidden",
+    "content_verified": false
   },
   {
     "id": "legal-notices",
     "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F31228",
-    "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "date": "2026-10-10",
+    "status": 200,
+    "bytes": 169063,
+    "content_verified": true
   },
   {
     "id": "gdpr",
     "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=fr",
-    "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "date": "2026-10-10",
+    "status": 200,
+    "bytes": 1142549,
+    "content_verified": true
   },
   {
     "id": "youtube-banner",
     "url": "https://support.google.com/youtube/answer/2972003?hl=fr",
-    "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "date": "2026-10-10",
+    "status": 200,
+    "bytes": 1641634,
+    "content_verified": false,
+    "note": "Cette URL décrit les informations de chaîne, pas les dimensions de bannière."
   },
   {
     "id": "youtube-thumbnails",
     "url": "https://support.google.com/youtube/answer/72431?hl=fr",
-    "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "date": "2026-10-10",
+    "status": 200,
+    "bytes": 1640283,
+    "content_verified": true
   },
   {
     "id": "youtube-end-screen",
     "url": "https://support.google.com/youtube/answer/6388789?hl=fr",
-    "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "date": "2026-10-10",
+    "status": 200,
+    "bytes": 1642882,
+    "content_verified": true
   },
   {
     "id": "instagram-images",
     "url": "https://help.instagram.com/1631821640426723",
-    "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "date": "2026-10-10",
+    "status": 200,
+    "bytes": 394060,
+    "content_verified": false,
+    "note": "HTTP 200 mais contenu rendu limité à Help Center ; spécifications non vérifiées."
   },
   {
     "id": "instagram-reels",
     "url": "https://help.instagram.com/1038071743007909",
-    "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "date": "2026-10-10",
+    "status": 200,
+    "bytes": 394036,
+    "content_verified": false,
+    "note": "HTTP 200 mais contenu rendu limité à Help Center ; spécifications non vérifiées."
   },
   {
     "id": "whatsapp-business",
     "url": "https://business.whatsapp.com/products/business-app",
+    "date": "2026-10-10",
     "status": "unavailable",
-    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "content_verified": false
   },
   {
     "id": "github-privacy",
     "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+    "date": "2026-10-10",
     "status": 200,
-    "bytes": 304812
+    "bytes": 304812,
+    "content_verified": true
   },
   {
     "id": "github-pages",
     "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages",
+    "date": "2026-10-10",
     "status": 200,
-    "bytes": 94033
+    "bytes": 94033,
+    "content_verified": true
   },
   {
     "id": "formspree-privacy",
     "url": "https://formspree.io/legal/privacy-policy/",
+    "date": "2026-10-10",
     "status": "unavailable",
-    "error": "HTTP Error 403: Forbidden"
+    "error": "HTTP Error 403: Forbidden",
+    "content_verified": false
+  },
+  {
+    "id": "youtube-branding",
+    "url": "https://support.google.com/youtube/answer/10456525?hl=fr",
+    "date": "2026-10-10",
+    "status": 200,
+    "content_verified": true
   }
 ]

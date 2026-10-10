@@ -6,12 +6,16 @@ import shutil
 import zipfile
 root=pathlib.Path(__file__).resolve().parent
 preview=root/'review/site'
-shutil.copytree(root/'dist',preview,dirs_exist_ok=True)
+if preview.exists():shutil.rmtree(preview)
+shutil.copytree(root/'dist',preview,ignore=shutil.ignore_patterns('brand','delivery'))
+domain=__import__('json').loads((root/'content/settings.json').read_text())['domain'].rstrip('/')
 for page in preview.rglob('*.html'):
     def relative(match):
         attr,value=match.groups()
         value=re.sub(r'^/Site-beta/', '/', value)
         target,separator,query=value.partition('?')
+        if target.startswith(('/brand/','/delivery/')):
+            return f'{attr}="{domain}{value}"'
         destination=preview/target.lstrip('/')
         if target.endswith('/'):destination=destination/'index.html'
         suffix=separator+query if separator else ''

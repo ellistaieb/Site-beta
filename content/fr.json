@@ -170,7 +170,7 @@
   "choose": "Choisir un accompagnement",
   "privacy_note": "Vos coordonnées servent uniquement à répondre à votre demande. Évitez toute information médicale ou sensible.",
   "privacy_link": "Confidentialité",
-  "unavailable": "Le contact en ligne sera disponible prochainement.",
+  "unavailable": "Le formulaire en ligne est inactif. Vous pouvez me contacter directement par e-mail ou téléphone.",
   "sending": "Envoi en cours…",
   "success": "Votre demande a bien été transmise. Merci pour votre message.",
   "error": "Votre demande n’a pas pu être transmise. Veuillez réessayer ou utiliser les coordonnées indiquées.",
@@ -228,5 +228,6 @@
   "welcome_signature": "Un espace pour avancer.",
   "language_choice": "Découvrir en français",
   "terms": "CGU",
-  "privacy_note_inactive": "Le formulaire est actuellement inactif : aucun message n’est transmis. Évitez de saisir des informations médicales ou sensibles."
+  "privacy_note_inactive": "Le formulaire est actuellement inactif : aucun message n’est transmis. Évitez de saisir des informations médicales ou sensibles.",
+  "resources": "Ressources"
 }

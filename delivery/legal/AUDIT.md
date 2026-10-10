@@ -1,10 +1,11 @@
 # Audit du site — code de la version de travail
 
-Date : 9 octobre 2026. Le contrôle porte sur `build.py`, `assets/site.js`, `assets/style.css`, `content/settings.json` et le workflow GitHub Pages. La consultation distante du site et des contrats prestataires reste non vérifiée à cause des restrictions réseau.
+Date : 10 octobre 2026. Le contrôle porte sur `build.py`, `assets/site.js`, `assets/style.css`, `content/settings.json` et le workflow GitHub Pages. La consultation distante du site et des contrats prestataires reste non vérifiée à cause des restrictions réseau.
 
 | Fonction | État observé | Conséquence pour les brouillons |
 |---|---|---|
 | Hébergement | GitHub Pages, déploiement par GitHub Actions | GitHub est identifié comme fournisseur technique ; entité contractuelle, coordonnées et traitements à confirmer |
+| Contacts directs | E-mail Gmail et téléphone publiés ; lien Instagram sans embed | Échanges et prestataires à documenter ; aucun envoi depuis le formulaire |
 | Formulaire | `contact_endpoint` vide ; bouton désactivé | Aucun envoi Formspree actif par le code |
 | Champs prévus | prénom, e-mail, téléphone facultatif, accompagnement, message ; entreprise si demande entreprise ; langue, libellé et honeypot | À informer avant activation ; aucune donnée médicale demandée |
 | Réservation / paiement | lien vide ; aucun paiement ou calendrier | Pas de vente ou réservation en ligne active |
@@ -23,6 +24,6 @@ Date : 9 octobre 2026. Le contrôle porte sur `build.py`, `assets/site.js`, `ass
 
 Les six pages de travail portent un bandeau de brouillon et des champs explicites. Les URLs françaises/anglaises existantes sont conservées pour mentions légales et confidentialité. Les CGU sont ajoutées à `/fr/conditions-utilisation/` et `/en/terms-of-use/`, avec le préfixe `/Site-beta/` lors du déploiement. Les trois liens figurent au pied de page ; le formulaire renvoie à la confidentialité.
 
-Aucune publication sur `main`, aucun compte réseau social et aucun envoi de message n’ont été effectués pour cette livraison.
+Publication sur `main` demandée explicitement le 10 octobre 2026. Aucun compte réseau social et aucun envoi de message n’ont été effectués.
 
-Les deux pages officielles GitHub citées dans la note de sources ont été consultées avec succès. Les conclusions relatives à la CNIL, aux textes publics et aux spécifications contemporaines des réseaux restent à revalider après résolution des refus réseau.
+Les deux pages officielles GitHub citées dans la note de sources ont été consultées avec succès. Service Public, EUR-Lex et YouTube ont également été consultés le 10 octobre. CNIL, Instagram et WhatsApp restent à revalider ; les informations contractuelles réelles Gmail et GitHub sont à compléter.

@@ -1,3 +1,24 @@
+# Sources : mise à jour du 10 octobre 2026
+
+L’accès réseau a évolué depuis la première livraison. `checks.json` conserve les nouveaux résultats, et `checks-2026-10-09.json` l’état initial. Un HTTP 200 n’est pas assimilé à la lecture du contenu : Instagram ne restitue que « Help Center », sans ses spécifications.
+
+## Sources effectivement consultées aujourd’hui
+
+- Service Public Entreprendre, F31228 : identité, statut selon la situation, adresse, e-mail, téléphone, immatriculation/TVA applicables et identité/adresse/téléphone de l’hébergeur. La page concerne l’entrepreneur individuel ; elle ne permet pas de déduire ce statut pour Valérie Migueres. Le statut, l’adresse et l’identité de publication restent à confirmer.
+- EUR-Lex, RGPD : articles 5 et 6 (limitation, conservation justifiée et bases par finalité), 12–14 (information et droits), 15–22 et 44–49 (droits et transferts). Les coordonnées publiées ne déterminent ni les bases concrètes, ni les durées, ni les garanties contractuelles Gmail ou GitHub.
+- YouTube, identité visuelle : https://support.google.com/youtube/answer/10456525?hl=fr ; bannière recommandée 2560 × 1440, minimum 2048 × 1152, zone texte/logo de 1235 × 338 au minimum, limite 6 Mo. Notre zone centrale 1546 × 423 à 2560 × 1440 est cohérente avec cette référence ; vérifier les crops dans Studio.
+- YouTube, miniatures : la recommandation actuelle lue est 3840 × 2160 pour les vidéos (16:9), largeur minimale 640 ; JPG/PNG. Limite mobile 2 Mo pour les vidéos, ordinateur 50 Mo. Les modèles modifiables 1280 × 720 sont conservés ; six exports JPG supplémentaires `miniature-*-4k.jpg` en 3840 × 2160, sous 2 Mo, sont fournis.
+- YouTube, écran de fin : vidéo d’au moins 25 secondes, éléments à ajouter dans Studio ; notre image ne crée pas de lien interactif.
+- Les deux sources GitHub précédentes restent consultables ; journalisation IP de sécurité et contexte général des transferts confirmés, contrats/rôles/durées de cette instance non établis.
+
+## Limites restantes
+
+CNIL et Formspree répondent 403 ; WhatsApp Business reste bloqué à la connexion/redirection. Les pages Instagram accessibles ne livrent pas le contenu des spécifications. Les marges Instagram/WhatsApp demeurent des choix prudents à contrôler dans les applications. Formspree reste désactivé.
+
+Le contrôle HTTP direct du site GitHub Pages et l’API Actions restent bloqués dans cet environnement. La page web Actions de GitHub est consultable pour suivre la publication. La publication sur le site a été expressément demandée le 10 octobre 2026 ; les informations juridiques non confirmées restent signalées dans les pages.
+
+## Première note de livraison, conservée pour historique
+
 # Sources et limites de vérification — 9 octobre 2026
 
 Les sources officielles listées dans `checks.json` ont été demandées le 9 octobre 2026. Les deux pages GitHub ont été consultées avec succès (HTTP 200). Les sources CNIL, Service Public, EUR-Lex, plateformes et Formspree ont été refusées par le réseau (HTTP 403). Le fichier conserve le résultat exact ; aucun contenu des pages refusées n’a été lu. Les domaines nécessaires ont été ajoutés au brouillon de configuration réseau, sans activation automatique ni publication.

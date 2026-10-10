@@ -1,7 +1,7 @@
 {
   "fr": {
-    "draft": "Brouillon à compléter et valider avant publication. Les éléments entre crochets ne sont pas des informations confirmées. Ce document ne constitue pas une validation juridique de l’activité.",
-    "version": "Version de travail du 9 octobre 2026",
+    "draft": "Document publié avec des informations restant à compléter et à valider. Les éléments entre crochets ne sont pas confirmés. Ce document ne constitue pas une validation juridique de l’activité.",
+    "version": "Version à compléter du 10 octobre 2026",
     "missing": "À compléter selon le statut et le fonctionnement réels",
     "legal": {
       "title": "Mentions légales",
@@ -11,7 +11,7 @@
           "heading": "1. Éditeur du site",
           "paragraphs": [
             "Le site présente l’activité de Valérie Migueres : accompagnement personnel et professionnel à Nice. Le nom utilisé pour la présentation est confirmé ; la personne physique ou morale qui édite juridiquement le site doit être identifiée selon le statut réel de l’activité.",
-            "[À COMPLÉTER : statut, identité légale, adresse professionnelle ou siège, e-mail et téléphone. Selon le statut : immatriculation et registre applicables, capital pour une société si requis, TVA le cas échéant et autres mentions professionnelles applicables.]"
+            "[À COMPLÉTER : statut, identité légale, adresse professionnelle ou siège. Selon le statut : immatriculation et registre applicables, capital pour une société si requis, TVA le cas échéant et autres mentions professionnelles applicables.]"
           ]
         },
         {
@@ -44,7 +44,7 @@
         {
           "heading": "6. Contact et état du document",
           "paragraphs": [
-            "[À COMPLÉTER : coordonnées de contact de l’éditeur.] Les informations pratiques et légales manquantes doivent être renseignées avant de présenter cette page comme finalisée. Les CGU et la politique de confidentialité complètent cette page."
+            "Contact : migueresv@gmail.com · 06 63 83 44 50. Profil Instagram : @valmigueres. Les autres informations pratiques et légales manquantes doivent être renseignées avant de présenter cette page comme finalisée. Les CGU et la politique de confidentialité complètent cette page."
           ]
         }
       ]
@@ -76,7 +76,8 @@
           "heading": "4. Demandes de contact et fonctions disponibles",
           "paragraphs": [
             "Dans la version examinée, le formulaire est désactivé tant que son endpoint n’est pas renseigné. Aucun calendrier, paiement ni vente en ligne n’est actif. Les détails saisis ne sont pas transmis par ce formulaire désactivé.",
-            "Une demande de contact ne vaut pas réservation ni acceptation d’un accompagnement. Si ces fonctions sont activées, leurs informations et conditions propres devront être communiquées avant toute confirmation. L’utilisateur est invité à ne pas transmettre de récit médical détaillé ni d’informations sensibles."
+            "Une demande de contact ne vaut pas réservation ni acceptation d’un accompagnement. Si ces fonctions sont activées, leurs informations et conditions propres devront être communiquées avant toute confirmation. L’utilisateur est invité à ne pas transmettre de récit médical détaillé ni d’informations sensibles.",
+            "Vous pouvez contacter Valérie Migueres par e-mail à migueresv@gmail.com ou par téléphone au 06 63 83 44 50. Le lien Instagram ouvre un service externe ; il ne charge aucun contenu Instagram dans le site."
           ]
         },
         {
@@ -107,7 +108,7 @@
           "heading": "9. Droit applicable et échanges",
           "paragraphs": [
             "Le site présente une activité exercée en France. L’application du droit français est envisagée, sous réserve des règles impératives éventuellement applicables et des droits des utilisateurs. Aucun tribunal exclusif ni renonciation générale à un recours n’est imposé par ce brouillon.",
-            "[À VALIDER : identité de l’éditeur et contact de réclamation.] Une demande relative au site peut être adressée à l’éditeur lorsque ses coordonnées sont confirmées."
+            "Les questions et réclamations relatives au site peuvent être adressées à migueresv@gmail.com. [À VALIDER : identité juridique de l’éditeur.]"
           ]
         },
         {
@@ -125,8 +126,8 @@
         {
           "heading": "1. Responsable et périmètre",
           "paragraphs": [
-            "Cette politique décrit la version du site examinée le 9 octobre 2026. L’identité du responsable de traitement doit correspondre à l’entité qui décide effectivement des finalités et des moyens des traitements.",
-            "[À COMPLÉTER : identité légale et coordonnées du responsable de traitement ; e-mail pour exercer les droits. Ne pas assimiler automatiquement le nom de présentation à l’entité responsable.]"
+            "Cette politique décrit la version du site examinée le 10 octobre 2026. L’identité du responsable de traitement doit correspondre à l’entité qui décide effectivement des finalités et des moyens des traitements.",
+            "[À COMPLÉTER : identité légale et adresse du responsable de traitement. Ne pas assimiler automatiquement le nom de présentation à l’entité responsable.] Contact pour les questions de confidentialité et l’exercice des droits : migueresv@gmail.com."
           ]
         },
         {
@@ -140,42 +141,44 @@
           "heading": "3. Formulaire, réservation et données saisies",
           "paragraphs": [
             "Le formulaire de cette version est désactivé : son adresse d’envoi est vide. Le code ne transmet donc pas les champs de contact à Formspree. Une saisie peut rester temporairement visible dans le navigateur ; aucun stockage local applicatif de ces champs n’est programmé.",
-            "Aucun lien de réservation, paiement en ligne ou compte client n’est configuré. Formspree est une intégration prévue, pas un service de collecte actif dans cette version. Son activation nécessite une mise à jour de cette politique et de la notice du formulaire."
+            "Aucun lien de réservation, paiement en ligne ou compte client n’est configuré. Formspree est une intégration prévue, pas un service de collecte actif dans cette version. Son activation nécessite une mise à jour de cette politique et de la notice du formulaire.",
+            "Les liens e-mail et téléphone ouvrent votre application de messagerie ou d’appel. Si vous prenez contact, les coordonnées que vous communiquez et le contenu de votre demande servent à traiter l’échange ; ce traitement est distinct du formulaire inactif. L’adresse publiée utilise Gmail. Le lien vers @valmigueres ouvre Instagram : aucune intégration ni requête Instagram n’est chargée automatiquement par le site. Après ouverture de ces services, leurs traitements et politiques propres s’appliquent."
           ]
         },
         {
           "heading": "4. Finalités et bases légales",
           "paragraphs": [
             "Les traitements techniques nécessaires à la mise à disposition et à la sécurité du site doivent être attribués aux intervenants concernés. Pour ceux placés sous la responsabilité de l’éditeur, un intérêt légitime peut être envisagé après examen de la nécessité, de la proportionnalité et des droits des personnes ; le rôle propre du prestataire doit être distingué.",
-            "[À VALIDER : finalités, rôles et bases des journaux d’hébergement.] Pour un futur contact : une demande de rendez-vous à l’initiative d’une personne peut relever de mesures précontractuelles ; une demande générale peut relever d’un intérêt légitime à répondre, après analyse appropriée. Ces bases doivent être documentées avant activation. Le consentement n’est pas retenu automatiquement pour tous les traitements."
+            "[À VALIDER : finalités, rôles et bases des journaux d’hébergement.] Pour les contacts directs, une demande de rendez-vous à l’initiative d’une personne peut relever de mesures précontractuelles ; une demande générale peut relever d’un intérêt légitime à répondre, après analyse appropriée. La base de chaque finalité doit être documentée selon les échanges réels. Le consentement n’est pas retenu automatiquement pour tous les traitements."
           ]
         },
         {
           "heading": "5. Destinataires et prestataires",
           "paragraphs": [
             "Les requêtes de navigation sont reçues par l’hébergeur. [À CONFIRMER : entité contractuelle, rôle et sous-traitants éventuels.] Aucun message n’est transmis au service de formulaire dans la configuration actuelle.",
-            "Si le formulaire est activé : préciser l’éditeur destinataire, le service d’envoi, les éventuels prestataires de messagerie, leurs rôles et les accès nécessaires. Les destinataires ne doivent pas être supposés à partir d’une fonction non configurée."
+            "Pour les contacts directs, les échanges sont reçus par Valérie Migueres et passent par les services de messagerie ou de téléphonie utilisés, notamment Gmail pour l’adresse publiée. [À CONFIRMER : type de compte, entité contractuelle, rôles, accès et conditions du service de messagerie ; éventuels autres intervenants.] Si le formulaire est activé, ajouter également son service d’envoi et les destinataires réels."
           ]
         },
         {
           "heading": "6. Durées de conservation",
           "paragraphs": [
             "Les durées doivent être définies selon chaque finalité, les besoins réellement justifiés et les obligations applicables ; aucune durée standard n’est inventée dans ce document.",
-            "[À CONFIRMER : durée des journaux de l’hébergeur et justification ; éventuelles contraintes d’accès ou d’effacement.] Avant d’activer les demandes : définir et justifier la durée nécessaire au traitement d’une demande, les règles de suppression, l’archivage éventuel et les obligations distinctes en cas de relation contractuelle."
+            "[À CONFIRMER : durée des journaux de l’hébergeur et justification ; éventuelles contraintes d’accès ou d’effacement. Pour les contacts directs : durée nécessaire au traitement d’une demande, justification, suppression, archivage éventuel et obligations distinctes en cas de relation contractuelle.] Ces paramètres ne sont pas déduits de l’adresse de messagerie publiée."
           ]
         },
         {
           "heading": "7. Localisation et transferts",
           "paragraphs": [
             "La déclaration générale de confidentialité de GitHub consultée décrit des traitements dans plusieurs pays, dont les États-Unis, et indique recourir généralement aux clauses contractuelles types pour certains transferts. Ces indications générales ne suffisent pas à identifier les lieux et garanties applicables à cette instance ni le rôle contractuel précis de l’hébergeur.",
-            "[À VÉRIFIER : localisation effective, transferts hors Espace économique européen éventuels, base de transfert applicable et garanties documentées, y compris les sous-traitants. Ne pas déclarer une adéquation, un accord contractuel ou une certification sans vérification actuelle.] Les mêmes vérifications seront nécessaires pour un futur service d’envoi."
+            "[À VÉRIFIER : localisation effective, transferts hors Espace économique européen éventuels, base de transfert applicable et garanties documentées, y compris les sous-traitants. Ne pas déclarer une adéquation, un accord contractuel ou une certification sans vérification actuelle.] Les mêmes vérifications seront nécessaires pour un futur service d’envoi.",
+            "Les échanges Gmail et les interactions sur Instagram nécessitent aussi de vérifier les lieux de traitement et les garanties applicables au compte et au service réellement utilisés. Le simple affichage de leurs liens ne permet pas de déterminer ces garanties."
           ]
         },
         {
           "heading": "8. Vos droits",
           "paragraphs": [
             "Selon le traitement et sa base, vous pouvez demander l’accès, la rectification, l’effacement, la limitation, la portabilité lorsque ses conditions sont réunies et vous opposer à certains traitements. Un éventuel consentement peut être retiré sans remettre en cause la licéité des opérations antérieures. Tous ces droits ne s’appliquent pas de la même manière à tous les traitements.",
-            "[À COMPLÉTER : contact pour exercer les droits.] La réponse intervient selon les délais légaux, en principe dans le mois, avec prolongation possible dans les cas prévus par le RGPD et information de la personne. Une vérification d’identité n’est demandée que si elle est nécessaire et proportionnée. Vous pouvez adresser une réclamation à la CNIL : https://www.cnil.fr/."
+            "Pour exercer vos droits, écrivez à migueresv@gmail.com. La réponse intervient selon les délais légaux, en principe dans le mois, avec prolongation possible dans les cas prévus par le RGPD et information de la personne. Une vérification d’identité n’est demandée que si elle est nécessaire et proportionnée. Vous pouvez adresser une réclamation à la CNIL : https://www.cnil.fr/."
           ]
         },
         {
@@ -195,8 +198,8 @@
     }
   },
   "en": {
-    "draft": "Draft to complete and review before publication. Items in square brackets are not confirmed information. This document is not a legal validation of the activity.",
-    "version": "Working version dated 9 October 2026",
+    "draft": "Published document with information still to complete and review. Items in square brackets are not confirmed. This document is not a legal validation of the activity.",
+    "version": "Version to complete dated 10 October 2026",
     "missing": "Complete according to the actual legal status and operation",
     "legal": {
       "title": "Legal information",
@@ -206,7 +209,7 @@
           "heading": "1. Website publisher",
           "paragraphs": [
             "The website presents Valérie Migueres’s personal and professional support in Nice. The presentation name is confirmed; the individual or legal entity publishing the website must be identified according to the activity’s actual legal status.",
-            "[TO COMPLETE: legal status, registered identity, business or registered address, email and phone. Depending on status: registration and applicable register, company capital where required, VAT if applicable and any other required professional information.]"
+            "[TO COMPLETE: legal status, registered identity, business or registered address. Depending on status: registration and applicable register, company capital where required, VAT if applicable and any other required professional information.]"
           ]
         },
         {
@@ -239,7 +242,7 @@
         {
           "heading": "6. Contact and document status",
           "paragraphs": [
-            "[TO COMPLETE: the publisher’s contact details.] Missing practical and legal details must be supplied before this page is presented as final. The Terms of Use and privacy policy complement this page."
+            "Contact: migueresv@gmail.com · +33 6 63 83 44 50. Instagram profile: @valmigueres. Remaining practical and legal details must be supplied before this page is presented as final. The Terms of Use and privacy policy complement this page."
           ]
         }
       ]
@@ -271,7 +274,8 @@
           "heading": "4. Enquiries and available functions",
           "paragraphs": [
             "In the examined version, the form is disabled until its endpoint is configured. No calendar, payment or online sale is active. Details entered are not sent through the disabled form.",
-            "An enquiry is not a booking or acceptance of support. If these functions are enabled, their specific information and terms must be communicated before confirmation. Users are asked not to submit detailed medical accounts or sensitive information."
+            "An enquiry is not a booking or acceptance of support. If these functions are enabled, their specific information and terms must be communicated before confirmation. Users are asked not to submit detailed medical accounts or sensitive information.",
+            "You can contact Valérie Migueres by email at migueresv@gmail.com or by phone at +33 6 63 83 44 50. The Instagram link opens an external service; it loads no Instagram content into this website."
           ]
         },
         {
@@ -302,7 +306,7 @@
           "heading": "9. Applicable law and enquiries",
           "paragraphs": [
             "The website presents an activity based in France. French law is envisaged, subject to any applicable mandatory rules and users’ rights. This draft imposes no exclusive court or general waiver of remedies.",
-            "[TO REVIEW: publisher identity and complaints contact.] Website enquiries may be directed to the publisher when its details are confirmed."
+            "Website questions and complaints can be sent to migueresv@gmail.com. [TO REVIEW: publisher’s legal identity.]"
           ]
         },
         {
@@ -320,8 +324,8 @@
         {
           "heading": "1. Controller and scope",
           "paragraphs": [
-            "This policy describes the version examined on 9 October 2026. The controller’s identity must match the entity that actually decides the purposes and means of processing.",
-            "[TO COMPLETE: the controller’s legal identity and contact details, including a rights contact email. Do not automatically equate the presentation name with the responsible entity.]"
+            "This policy describes the version examined on 10 October 2026. The controller’s identity must match the entity that actually decides the purposes and means of processing.",
+            "[TO COMPLETE: controller’s legal identity and address. Do not automatically equate the presentation name with the responsible entity.] Privacy and data-rights enquiries: migueresv@gmail.com."
           ]
         },
         {
@@ -335,42 +339,44 @@
           "heading": "3. Form, booking and entered information",
           "paragraphs": [
             "The form is disabled in this version: its submission address is empty. The code therefore does not transmit contact fields to Formspree. Entered details may remain temporarily visible in the browser; the application does not program local storage of these fields.",
-            "No booking link, online payment or client account is configured. Formspree is a planned integration, not an active collection service in this version. Enabling it requires updating this policy and the form notice."
+            "No booking link, online payment or client account is configured. Formspree is a planned integration, not an active collection service in this version. Enabling it requires updating this policy and the form notice.",
+            "Email and phone links open your email or calling application. If you get in touch, the details you provide and your enquiry are used to handle the conversation; this is separate from the inactive form. The published address uses Gmail. The @valmigueres link opens Instagram: the website does not automatically load any Instagram embed or request. Once you open these services, their own processing and policies apply."
           ]
         },
         {
           "heading": "4. Purposes and lawful bases",
           "paragraphs": [
             "Technical processing necessary for website availability and security must be attributed to the relevant parties. For processing controlled by the publisher, legitimate interests may be considered after assessing necessity, proportionality and individuals’ rights; the provider’s own role must be distinguished.",
-            "[TO REVIEW: hosting-log purposes, roles and lawful bases.] For future enquiries, appointment requests initiated by an individual may involve pre-contractual steps; general enquiries may involve legitimate interests in replying, subject to appropriate assessment. These bases must be documented before enabling collection. Consent is not automatically used for all processing."
+            "[TO REVIEW: hosting-log purposes, roles and lawful bases.] For direct enquiries, an appointment request initiated by an individual may involve pre-contractual steps; a general enquiry may involve legitimate interests in replying, subject to appropriate assessment. The basis for each purpose must be documented according to actual conversations. Consent is not automatically used for all processing."
           ]
         },
         {
           "heading": "5. Recipients and providers",
           "paragraphs": [
             "Browsing requests reach the hosting provider. [TO CONFIRM: contracting entity, role and possible subprocessors.] No message is sent to the form service in the current configuration.",
-            "If the form is enabled: specify the publisher receiving enquiries, submission and email providers, their roles and necessary access. Recipients must not be inferred from an unconfigured function."
+            "Direct enquiries are received by Valérie Migueres and pass through the email or telephone services used, including Gmail for the published address. [TO CONFIRM: account type, contracting entity, roles, access and email-service terms; any other parties.] If the form is enabled, also identify its submission service and actual recipients."
           ]
         },
         {
           "heading": "6. Retention",
           "paragraphs": [
             "Periods must reflect each purpose, justified actual needs and applicable obligations; this document invents no standard period.",
-            "[TO CONFIRM: hosting-log retention and justification, including any access or erasure constraints.] Before enabling enquiries: define and justify the period needed to handle them, deletion rules, possible archiving and separate obligations arising from a contractual relationship."
+            "[TO CONFIRM: hosting-log retention and justification, including any access or erasure constraints. For direct enquiries: necessary retention, justification, deletion, possible archiving and separate obligations arising from a contractual relationship.] These settings cannot be inferred from the published email address."
           ]
         },
         {
           "heading": "7. Locations and transfers",
           "paragraphs": [
             "The consulted GitHub General Privacy Statement describes processing in several countries, including the United States, and generally relying on standard contractual clauses for certain transfers. These general statements do not establish the locations and safeguards for this instance or the host’s exact contractual role.",
-            "[TO VERIFY: actual locations, possible transfers outside the European Economic Area, applicable transfer basis and documented safeguards, including subprocessors. Do not assert adequacy, contractual arrangements or certification without current verification.] Equivalent checks will be required for a future submission service."
+            "[TO VERIFY: actual locations, possible transfers outside the European Economic Area, applicable transfer basis and documented safeguards, including subprocessors. Do not assert adequacy, contractual arrangements or certification without current verification.] Equivalent checks will be required for a future submission service.",
+            "Gmail conversations and Instagram interactions also require checking processing locations and safeguards for the account and service actually used. Displaying their links does not establish these safeguards."
           ]
         },
         {
           "heading": "8. Your rights",
           "paragraphs": [
             "Depending on processing and its basis, you may request access, rectification, erasure, restriction and portability where its conditions apply, and object to certain processing. Any consent may be withdrawn without affecting earlier lawful processing. Not every right applies identically to every operation.",
-            "[TO COMPLETE: rights contact.] Responses follow statutory time limits, generally within one month, with extensions possible in the circumstances provided by the GDPR and notification to the individual. Identity checks are requested only where necessary and proportionate. You may complain to the CNIL: https://www.cnil.fr/."
+            "To exercise your rights, email migueresv@gmail.com. Responses follow statutory time limits, generally within one month, with extensions possible in the circumstances provided by the GDPR and notification to the individual. Identity checks are requested only where necessary and proportionate. You may complain to the CNIL: https://www.cnil.fr/."
           ]
         },
         {

@@ -1,8 +1,8 @@
 {
   "name": "Valérie Migueres",
   "domain": "https://ellistaieb.github.io/Site-beta",
-  "email": "",
-  "phone": "",
+  "email": "migueresv@gmail.com",
+  "phone": "06 63 83 44 50",
   "address": "",
   "hours": "",
   "consultation_languages": "",
@@ -23,7 +23,7 @@
   },
   "legal_identity": "",
   "hosting": "",
-  "privacy_contact": "",
+  "privacy_contact": "migueresv@gmail.com",
   "prices_confirmed": false,
   "prices": [
     75,
@@ -54,5 +54,6 @@
       "fr": "/assets/share-fr.jpg",
       "en": "/assets/share-en.jpg"
     }
-  }
+  },
+  "instagram": "https://www.instagram.com/valmigueres/"
 }

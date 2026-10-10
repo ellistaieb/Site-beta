@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "status": "local checks passed; external validation incomplete",
   "site": {
-    "pages": 29,
-    "browser_checks_passed": 666,
+    "pages": 31,
+    "browser_checks_passed": 708,
     "widths": [
       320,
       390,
@@ -21,7 +21,7 @@
     "dimensions_valid": true,
     "logos_and_title_png_transparent": true,
     "svg_text_bounds_issues": [],
-    "thumbnail_jpg": 6,
+    "thumbnail_jpg": 12,
     "videos": [
       {
         "file": "social/exports/youtube/en/intro.mp4",
@@ -45,7 +45,8 @@
         "seconds": 3,
         "audio_streams": 0
       }
-    ]
+    ],
+    "thumbnail_4k_jpg": 6
   },
   "editor": {
     "downloaded_svg_reflects_edits": true,
@@ -76,13 +77,25 @@
     ]
   },
   "sources": {
-    "consulted": 2,
-    "blocked": 12,
+    "http_200": 10,
+    "content_verified": 7,
+    "unavailable": 5,
     "details": "sources/checks.json"
   },
   "publication": {
-    "site_public_changes": false,
+    "site_public_changes_authorized": true,
+    "authorized_date": "2026-10-10",
+    "deployment_branch": "main",
     "social_posts_or_accounts": false,
-    "delivery_branch": "kit-reseaux-juridique"
+    "direct_live_http_check": "blocked by network; GitHub Actions web page accessible"
+  },
+  "publication_checks": {
+    "direct_contact_links_fr_en": "passed",
+    "legal_pages_with_known_contacts": 6,
+    "resource_links_http_and_file_signatures": 12,
+    "public_gallery_models": 54,
+    "editor_at_project_base": "passed",
+    "external_requests": [],
+    "js_errors": []
   }
 }

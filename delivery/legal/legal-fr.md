@@ -1,14 +1,16 @@
 # Mentions légales
 
-Version de travail du 9 octobre 2026
+Version à compléter du 10 octobre 2026
 
-Brouillon à compléter et valider avant publication. Les éléments entre crochets ne sont pas des informations confirmées. Ce document ne constitue pas une validation juridique de l’activité.
+Document publié avec des informations restant à compléter et à valider. Les éléments entre crochets ne sont pas confirmés. Ce document ne constitue pas une validation juridique de l’activité.
+
+Brouillon des mentions légales de Valérie Migueres, accompagnement personnel et professionnel à Nice.
 
 ## 1. Éditeur du site
 
 Le site présente l’activité de Valérie Migueres : accompagnement personnel et professionnel à Nice. Le nom utilisé pour la présentation est confirmé ; la personne physique ou morale qui édite juridiquement le site doit être identifiée selon le statut réel de l’activité.
 
-[À COMPLÉTER : statut, identité légale, adresse professionnelle ou siège, e-mail et téléphone. Selon le statut : immatriculation et registre applicables, capital pour une société si requis, TVA le cas échéant et autres mentions professionnelles applicables.]
+[À COMPLÉTER : statut, identité légale, adresse professionnelle ou siège. Selon le statut : immatriculation et registre applicables, capital pour une société si requis, TVA le cas échéant et autres mentions professionnelles applicables.]
 
 ## 2. Responsable de publication
 
@@ -34,4 +36,26 @@ Les formes abstraites sont des éléments graphiques et ne représentent pas le 
 
 ## 6. Contact et état du document
 
-[À COMPLÉTER : coordonnées de contact de l’éditeur.] Les informations pratiques et légales manquantes doivent être renseignées avant de présenter cette page comme finalisée. Les CGU et la politique de confidentialité complètent cette page.
+Contact : migueresv@gmail.com · 06 63 83 44 50. Profil Instagram : @valmigueres. Les autres informations pratiques et légales manquantes doivent être renseignées avant de présenter cette page comme finalisée. Les CGU et la politique de confidentialité complètent cette page.
+
+## À compléter selon le statut et le fonctionnement réels
+
+Statut juridique de l’éditeur: [À COMPLÉTER / À CONFIRMER]
+
+Dénomination légale, si différente: [À COMPLÉTER / À CONFIRMER]
+
+Immatriculation et registre applicables: [À COMPLÉTER / À CONFIRMER]
+
+Adresse professionnelle ou siège applicable: [À COMPLÉTER / À CONFIRMER]
+
+E-mail professionnel: migueresv@gmail.com
+
+Téléphone professionnel: 06 63 83 44 50
+
+Responsable de publication: [À COMPLÉTER / À CONFIRMER]
+
+TVA et autres informations applicables au statut: [À COMPLÉTER / À CONFIRMER]
+
+Informations relatives à une profession réglementée, uniquement si applicable: [À COMPLÉTER / À CONFIRMER]
+
+Entité contractuelle d’hébergement et coordonnées légales: [À COMPLÉTER / À CONFIRMER]

@@ -8,7 +8,7 @@ const fs=require('node:fs');const path=require('node:path');
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  const visited=new Set(),pending=[base+'/'];
  while(pending.length){const href=pending.shift();const route=href.split('?')[0];if(visited.has(route))continue;visited.add(route);const response=await page.goto(origin+route);check(response.status()===200,'HTTP '+route);
-  for(const href of await page.locator('a[href]').evaluateAll(a=>a.map(x=>x.getAttribute('href')))){if(href.startsWith(base+'/'))pending.push(href);}
+  for(const href of await page.locator('a[href]').evaluateAll(a=>a.map(x=>x.getAttribute('href')))){if(href===base+'/'||href.startsWith(base+'/fr/')||href.startsWith(base+'/en/'))pending.push(href);}
   check((await page.title()).includes('Valérie Migueres'),'identity '+route);
   if(route!==base+'/'){
    const lang=route.slice(base.length+1).split('/')[0];check(await page.locator('html').getAttribute('lang')===lang,'language '+route);
@@ -18,7 +18,7 @@ const fs=require('node:fs');const path=require('node:path');
    await page.goto(origin+opposite);check(await page.locator('.languages a[lang='+lang+']').getAttribute('href')===route,'reciprocal language '+route);
   }
  }
- check(visited.size===29,'29 pages found, actual '+visited.size);
+ check(visited.size===31,'31 pages found, actual '+visited.size);
  for(const width of [320,390,768,1024,1440]){
   await page.setViewportSize({width,height:950});
   for(const route of visited){await page.goto(origin+route);check(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'overflow '+width+' '+route);check(await page.locator('h1').count()===1,'single H1 '+route);

@@ -1,6 +1,6 @@
 {
   "status": "draft",
-  "review_date": "2026-10-09",
+  "review_date": "2026-10-10",
   "fields": {
     "status": {
       "fr": "Statut juridique de l’éditeur",
@@ -25,12 +25,12 @@
     "professional_email": {
       "fr": "E-mail professionnel",
       "en": "Professional email",
-      "value": ""
+      "value": "migueresv@gmail.com"
     },
     "professional_phone": {
       "fr": "Téléphone professionnel",
       "en": "Professional phone",
-      "value": ""
+      "value": "06 63 83 44 50"
     },
     "publication_director": {
       "fr": "Responsable de publication",
@@ -60,7 +60,7 @@
     "rights_contact": {
       "fr": "Contact pour exercer les droits",
       "en": "Contact for exercising data rights",
-      "value": ""
+      "value": "migueresv@gmail.com"
     },
     "hosting_roles": {
       "fr": "Rôles et bases juridiques relatifs aux journaux d’hébergement",

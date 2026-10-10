@@ -8,6 +8,8 @@ shutil.copytree(ROOT/'assets',OUT/'assets',dirs_exist_ok=True)
 paths={'fr':['','accompagnements','mon-approche','a-propos','seances-tarifs','contact','mentions-legales','confidentialite','accompagnements/confiance-stress','accompagnements/transitions','accompagnements/jeunes','accompagnements/professionnel','accompagnements/entreprises'],'en':['','how-i-can-help','my-approach','about','sessions-fees','contact','legal','privacy','how-i-can-help/confidence-stress','how-i-can-help/life-transitions','how-i-can-help/young-people','how-i-can-help/career','how-i-can-help/organisations']}
 paths['fr'].append('conditions-utilisation')
 paths['en'].append('terms-of-use')
+paths['fr'].append('ressources')
+paths['en'].append('resources')
 LEGAL=json.loads((ROOT/'content/legal-content.json').read_text())
 LEGAL_SETTINGS=json.loads((ROOT/'content/legal-settings.json').read_text())
 for feature in ('contact_endpoint','booking_url'):
@@ -18,6 +20,15 @@ support_ids=[8,9,11,10,12]
 def esc(v): return html.escape(str(v),quote=True)
 def url(l,i): return '/'+l+'/'+(paths[l][i]+'/' if paths[l][i] else '')
 def safe_link(v): return v if urlparse(v).scheme == 'https' and urlparse(v).netloc else ''
+def contact_links():
+ links=[]
+ if S['email']:links.append(f'<a href="mailto:{esc(S["email"])}">{esc(S["email"])}</a>')
+ if S['phone']:
+  phone=S['phone'].replace(' ','')
+  if phone.startswith('0'):phone='+33'+phone[1:]
+  links.append(f'<a href="tel:{esc(phone)}">{esc(S["phone"])}</a>')
+ if safe_link(S.get('instagram','')):links.append(f'<a href="{esc(S["instagram"])}" rel="noopener noreferrer">Instagram · @valmigueres</a>')
+ return ''.join(links)
 def link(l,i,text,cls='text-link'): return f'<a class="{cls}" href="{url(l,i)}">{text}<span aria-hidden="true"> ↗</span></a>'
 def write(l,i,t):
  other='en' if l=='fr' else 'fr'
@@ -60,8 +71,7 @@ def write(l,i,t):
  elif i==4:body=heading(t['fees_title'],t['fees_intro'])+section(fees()+details_fields(['address','hours','consultation_languages','duration','modalities','payment','cancellation']))+faq()+cta()
  elif i==5:
   contact=f'<h2>{t["location"]}</h2>'
-  if S['email']:contact+=f'<p><a href="mailto:{esc(S["email"])}">{esc(S["email"])}</a></p>'
-  if S['phone']:contact+=f'<p><a href="tel:{esc(S["phone"].replace(" ",""))}">{esc(S["phone"])}</a></p>'
+  contact+=f'<div class="contact-links">{contact_links()}</div>'
   contact+=details_fields(['address','hours','consultation_languages'])
   if safe_link(S['booking_url']):contact+=f'<a class="button" href="{esc(S["booking_url"])}">{t["booking"]}</a>'
   endpoint=safe_link(S['contact_endpoint'])
@@ -84,14 +94,17 @@ def write(l,i,t):
   keys=['status','registered_name','registration','business_address','professional_email','professional_phone','publication_director','vat','professional_rules','host_identity'] if i==6 else ['controller_identity','rights_contact','hosting_roles','hosting_retention','transfer_guarantees'] if i==7 else ['registered_name','professional_email']
   fields=''.join(f'<dt>{esc(LEGAL_SETTINGS["fields"][key][l])}</dt><dd>{esc(LEGAL_SETTINGS["fields"][key]["value"]) if LEGAL_SETTINGS["fields"][key]["value"] else ("[À COMPLÉTER / À CONFIRMER]" if l=="fr" else "[TO COMPLETE / CONFIRM]")}</dd>' for key in keys)
   body=heading(doc['title'],doc['description'])+section(f'<div class="reading legal-draft"><aside class="draft-notice" role="note"><strong>{esc(LEGAL[l]["version"])}</strong><p>{esc(draft)}</p></aside>{articles}<h2>{esc(LEGAL[l]["missing"])}</h2><dl>{fields}</dl></div>')
-
+ elif i==14:
+  resource=json.loads((ROOT/'content/resources.json').read_text())[l]
+  cards=''.join(f'<article><span class="eyebrow">{esc(item["label"])}</span><h2>{esc(item["title"])}</h2><p>{esc(item["description"])}</p><a class="button outline" href="{esc(item["href"])}"'+(' download' if item.get('download') else '')+f'>{esc(item["button"])}</a></article>' for item in resource['items'])
+  body=heading(resource['title'],resource['description'])+section(f'<div class="resource-grid">{cards}</div><p class="small">{esc(resource["note"])}</p>')
  else:
   n=support_ids.index(i)
   body=heading(t['support_titles'][n],t['support_intros'][n])+section(f'{link(l,1,t["back"])}<div class="split support-detail"><h2>{t["recognise"]}</h2><ul>'+''.join(f'<li>{esc(x)}</li>' for x in t['situations'][n])+'</ul></div>')+section(f'<div class="reading"><h2>{t["work_title"]}</h2><p>{t["work"][n]}</p><h3>{t["tools_title"]}</h3><p>{t["tools_intro"]}</p>{link(l,2,t["explore"])}</div>','sage')+steps()+faq([0,1,2])+cta()
- page_title=LEGAL[l][LEGAL_PAGES[i]]['title'] if i in LEGAL_PAGES else t['nav'][i] if i<6 else t['support_titles'][support_ids.index(i)]
+ page_title=LEGAL[l][LEGAL_PAGES[i]]['title'] if i in LEGAL_PAGES else t['resources'] if i==14 else t['nav'][i] if i<6 else t['support_titles'][support_ids.index(i)]
  title=page_title+' · '+S['name']+' · Nice'
  if i==0:title=S['name']+' · '+t['brand_line']
- description=LEGAL[l][LEGAL_PAGES[i]]['description'] if i in LEGAL_PAGES else t['intro'] if i==0 else t['support_intros'][support_ids.index(i)] if i in support_ids else t['approach_intro'] if i==2 else t['fees_intro'] if i==4 else t['contact_intro'] if i==5 else t['about_intro'] if i==3 else t['needs_intro']
+ description=LEGAL[l][LEGAL_PAGES[i]]['description'] if i in LEGAL_PAGES else resource['description'] if i==14 else t['intro'] if i==0 else t['support_intros'][support_ids.index(i)] if i in support_ids else t['approach_intro'] if i==2 else t['fees_intro'] if i==4 else t['contact_intro'] if i==5 else t['about_intro'] if i==3 else t['needs_intro']
  description=description+(' — '+S['name']+' · Nice' if S['name'] not in description else '')
  domain=S['domain'].rstrip('/')
  seo=''.join(f'<link rel="alternate" hreflang="{lang}" href="{esc(domain+url(lang,i))}">' for lang in ('fr','en'))+f'<link rel="alternate" hreflang="x-default" href="{esc(domain)}/">'
@@ -99,8 +112,8 @@ def write(l,i,t):
  navigation=''.join(f'<a href="{url(l,j)}" {"aria-current=page" if i==j else ""}>{esc(x)}</a>' for j,x in enumerate(t['nav']))
  translations={k:t[k] for k in ('sending','success','error','invalid','menu','close')}
  structured={'@context':'https://schema.org','@type':'Person','name':S['name'],'jobTitle':t['professional'],'url':domain+url(l,3)}
- mobile_cta=link(l,5,t['cta'],'button mobile-appointment') if i not in (5,6,7,13) else ''
- markup=f'''<!doctype html><html lang="{l}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta property="og:type" content="website"><meta property="og:locale" content="{'fr_FR' if l=='fr' else 'en_GB'}">{seo}<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg"><link rel="stylesheet" href="/assets/style.css"><script src="/assets/site.js" defer></script><noscript><style>@media(max-width:1190px){{header{{position:relative;flex-wrap:wrap}}#navigation{{display:flex;position:static;flex-basis:100%;order:4}}.menu-toggle{{display:none}}}}</style></noscript></head><body><a class="skip" href="#main">{t['skip']}</a><header><a class="brand" href="{url(l,0)}"><span class="brand-mark" aria-hidden="true">VM</span><span>{esc(S['name']) or t['brand']}<small>{t["brand_line"]}</small></span></a><button class="menu-toggle" aria-expanded="false" aria-controls="navigation">{t['menu']}</button><nav id="navigation" aria-label="{t['menu']}">{navigation}</nav>{link(l,5,t["cta"],"button header-appointment")}<div class="languages"><a href="{url('fr',i)}" lang="fr" {'aria-current=page' if l=='fr' else ''}>FR</a><span>/</span><a href="{url('en',i)}" lang="en" {'aria-current=page' if l=='en' else ''}>EN</a></div></header><main id="main" tabindex="-1">{body}</main>{mobile_cta}<footer><div><a class="brand" href="{url(l,0)}">{esc(S['name']) or t['brand']}</a><p>{t['copyright']}</p></div><div>{link(l,6,t['legal'])}{link(l,7,t['privacy_link'])}{link(l,13,t['terms'])}<p>© 2026</p></div></footer><script type="application/ld+json">{json.dumps(structured,ensure_ascii=False).replace("<","\\u003c")}</script><script type="application/json" id="ui-text">{json.dumps(translations,ensure_ascii=False).replace('<','&lt;')}</script></body></html>'''
+ mobile_cta=link(l,5,t['cta'],'button mobile-appointment') if i not in (5,6,7,13,14) else ''
+ markup=f'''<!doctype html><html lang="{l}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta property="og:type" content="website"><meta property="og:locale" content="{'fr_FR' if l=='fr' else 'en_GB'}">{seo}<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg"><link rel="stylesheet" href="/assets/style.css"><script src="/assets/site.js" defer></script><noscript><style>@media(max-width:1190px){{header{{position:relative;flex-wrap:wrap}}#navigation{{display:flex;position:static;flex-basis:100%;order:4}}.menu-toggle{{display:none}}}}</style></noscript></head><body><a class="skip" href="#main">{t['skip']}</a><header><a class="brand" href="{url(l,0)}"><span class="brand-mark" aria-hidden="true">VM</span><span>{esc(S['name']) or t['brand']}<small>{t["brand_line"]}</small></span></a><button class="menu-toggle" aria-expanded="false" aria-controls="navigation">{t['menu']}</button><nav id="navigation" aria-label="{t['menu']}">{navigation}</nav>{link(l,5,t["cta"],"button header-appointment")}<div class="languages"><a href="{url('fr',i)}" lang="fr" {'aria-current=page' if l=='fr' else ''}>FR</a><span>/</span><a href="{url('en',i)}" lang="en" {'aria-current=page' if l=='en' else ''}>EN</a></div></header><main id="main" tabindex="-1">{body}</main>{mobile_cta}<footer><div><a class="brand" href="{url(l,0)}">{esc(S['name']) or t['brand']}</a><p>{t['copyright']}</p><div class="footer-contacts">{contact_links()}</div></div><div>{link(l,6,t['legal'])}{link(l,7,t['privacy_link'])}{link(l,13,t['terms'])}{link(l,14,t['resources'])}<p>© 2026</p></div></footer><script type="application/ld+json">{json.dumps(structured,ensure_ascii=False).replace("<","\\u003c")}</script><script type="application/json" id="ui-text">{json.dumps(translations,ensure_ascii=False).replace('<','&lt;')}</script></body></html>'''
  target=OUT/url(l,i).lstrip('/');target.mkdir(parents=True,exist_ok=True);(target/'index.html').write_text(markup)
 for l in paths:
  t=json.loads((ROOT/f'content/{l}.json').read_text())
@@ -118,7 +131,7 @@ if S['domain']:
 else:
  (OUT/'sitemap.xml').unlink(missing_ok=True)
  (OUT/'robots.txt').write_text('User-agent: *\nDisallow: /\n')
-print('Built 29 bilingual pages. Absolute SEO metadata enabled; indexing '+('enabled.' if S.get('indexing_enabled') else 'blocked for preview.'))
+print('Built 31 bilingual pages. Absolute SEO metadata enabled; indexing '+('enabled.' if S.get('indexing_enabled') else 'blocked for preview.'))
 
 # GitHub project Pages serves the site beneath /Site-beta, rather than /.
 base=os.environ.get('SITE_BASE_PATH','').rstrip('/')
@@ -129,3 +142,8 @@ if base:
  for page in OUT.rglob('*.html'):
   page.write_text(re.sub(r'(href|src)="/(?!/)',lambda m:m.group(1)+'="'+base+'/',page.read_text()))
  print('Base path:',base)
+
+# Serve the reviewed brand and social kit through the same static deployment.
+if os.environ.get('SITE_INCLUDE_DOWNLOADS','1')!='0':
+ for folder in ('brand','delivery'):
+  shutil.copytree(ROOT/folder,OUT/folder,dirs_exist_ok=True,ignore=shutil.ignore_patterns('__pycache__'))

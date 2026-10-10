@@ -1,6 +1,6 @@
 # Valérie Migueres — Accompagnement personnel & professionnel à Nice
 
-Site bilingue existant amélioré : 29 pages HTML, mêmes URLs françaises et anglaises, palette ivoire/vert, identité VM, composition abstraite légère et parcours vers une demande qualifiée. Python 3.12 suffit. Aucun framework, traçage, publicité ou dépendance applicative externe.
+Site bilingue existant amélioré : 31 pages HTML, mêmes URLs françaises et anglaises, palette ivoire/vert, identité VM, composition abstraite légère et parcours vers une demande qualifiée. Python 3.12 suffit. Aucun framework, traçage, publicité ou dépendance applicative externe.
 
 ## Prévisualisation
 
@@ -19,7 +19,7 @@ Pour une prévisualisation navigable hors connexion :
 python export_preview.py
 ```
 
-Décompresser `review/valerie-migueres-preview.zip` puis ouvrir `index.html` dans un navigateur. Cette archive réécrit uniquement les liens locaux pour une consultation hors connexion ; le contenu de déploiement dans `dist` reste intact. Les captures des principaux écrans sont dans `review`.
+Décompresser `review/valerie-migueres-preview.zip` puis ouvrir `index.html` dans un navigateur. Cette archive réécrit les liens locaux pour une consultation hors connexion ; les téléchargements des kits renvoient au site public, afin d’éviter de dupliquer les archives ; le contenu de déploiement dans `dist` reste intact. Les captures des principaux écrans sont dans `review`.
 
 ## Éditer les contenus
 
@@ -74,7 +74,7 @@ La réservation se configure avec un lien HTTPS vers votre service, sans calendr
 
 ## Informations restant à confirmer
 
-- Coordonnées, adresse et accès, horaires, langues de consultation.
+- Adresse et accès, horaires, langues de consultation. E-mail, téléphone et profil Instagram confirmés le 10 octobre 2026.
 - Biographie et formations exactes, portrait et photos réelles si souhaités.
 - Tarifs provisoires : 75 €, 375 €, 600 €, 300 €. Mettre `prices_confirmed` à `true` seulement après confirmation.
 - Durée, modalités, paiement et annulation.
@@ -85,7 +85,7 @@ La version anglaise du site ne promet pas de consultations en anglais. Aucune ce
 
 ## SEO et déploiement
 
-Le domaine actuel est `https://ellistaieb.github.io/Site-beta`, configurable via `domain` ou `SITE_DOMAIN`. Chaque page dispose d’une canonique, de hreflang absolus réciproques FR/EN et x-default, d’un titre et d’une description, de métadonnées de partage et du favicon VM. Le sitemap comprend 27 URLs avec les alternatives bilingues. Les données structurées Person utilisent uniquement le nom et le titre professionnel fournis.
+Le domaine actuel est `https://ellistaieb.github.io/Site-beta`, configurable via `domain` ou `SITE_DOMAIN`. Chaque page dispose d’une canonique, de hreflang absolus réciproques FR/EN et x-default, d’un titre et d’une description, de métadonnées de partage et du favicon VM. Le sitemap comprend 31 URLs avec les alternatives bilingues. Les données structurées Person utilisent uniquement le nom et le titre professionnel fournis.
 
 `indexing_enabled: false` bloque les robots pour cette prévisualisation, tout en fournissant les métadonnées absolues. L’activer une fois les données finales approuvées. Une adresse professionnelle à la racine nécessitera d’ajuster le domaine et de retirer `SITE_BASE_PATH` dans le workflow.
 
@@ -100,7 +100,7 @@ npm install --prefix /tmp/site-browser --cache /tmp/npm-cache playwright
 PLAYWRIGHT_MODULE=/tmp/site-browser/node_modules/playwright node tests/browser.cjs
 ```
 
-Le serveur de prévisualisation doit tourner sur le port 8001. `PREVIEW_ORIGIN`, `SITE_BASE_PATH` et `CHROMIUM_PATH` permettent d’adapter le test. Vérifications : 29 pages, 320/390/768/1024/1440 px, liens et métadonnées, menu et focus clavier, formulaires FR/EN et piège anti-spam, choix d’offre et langue, tablette portrait/paysage, réduction des mouvements et navigation sans JavaScript. Les captures sont générées dans `review`.
+Le serveur de prévisualisation doit tourner sur le port 8001. `PREVIEW_ORIGIN`, `SITE_BASE_PATH` et `CHROMIUM_PATH` permettent d’adapter le test. Vérifications : 31 pages, 320/390/768/1024/1440 px, liens et métadonnées, menu et focus clavier, formulaires FR/EN et piège anti-spam, choix d’offre et langue, tablette portrait/paysage, réduction des mouvements et navigation sans JavaScript. Les captures sont générées dans `review`.
 
 ## Charte graphique premium
 
@@ -108,6 +108,6 @@ La charte, les logos et les ressources modifiables sont dans [brand](brand/READM
 
 ## Kit réseaux et documents juridiques — version de travail
 
-Les livrables sont dans [delivery](delivery/README.md) : guide social 13 pages, studio modifiable, 54 visuels FR/EN, intros silencieuses et six brouillons juridiques. Cette version est préparée sur la branche `kit-reseaux-juridique`, sans modification du site publié sur `main`.
+Les livrables sont dans [delivery](delivery/README.md) : guide social 13 pages, studio modifiable, 54 visuels FR/EN, intros silencieuses et six brouillons juridiques. La publication sur le site a été autorisée le 10 octobre 2026. La page `/fr/ressources/` (EN : `/en/resources/`) sert les téléchargements et donne accès à la galerie et au studio. E-mail, téléphone et Instagram sont affichés ; les informations juridiques manquantes restent signalées.
 
 Avant d’activer le contact ou une réservation, revoir `content/legal-content.json` et `content/legal-settings.json`, renseigner les données réelles et mettre à jour `audited_features`. Le build contrôle que ces fonctions correspondent à l’état juridique examiné. Cela ne constitue pas une validation juridique automatique.

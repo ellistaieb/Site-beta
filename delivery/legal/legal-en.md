@@ -1,14 +1,16 @@
 # Legal information
 
-Working version dated 9 October 2026
+Version to complete dated 10 October 2026
 
-Draft to complete and review before publication. Items in square brackets are not confirmed information. This document is not a legal validation of the activity.
+Published document with information still to complete and review. Items in square brackets are not confirmed. This document is not a legal validation of the activity.
+
+Draft legal information for Valérie Migueres, personal and professional development in Nice.
 
 ## 1. Website publisher
 
 The website presents Valérie Migueres’s personal and professional support in Nice. The presentation name is confirmed; the individual or legal entity publishing the website must be identified according to the activity’s actual legal status.
 
-[TO COMPLETE: legal status, registered identity, business or registered address, email and phone. Depending on status: registration and applicable register, company capital where required, VAT if applicable and any other required professional information.]
+[TO COMPLETE: legal status, registered identity, business or registered address. Depending on status: registration and applicable register, company capital where required, VAT if applicable and any other required professional information.]
 
 ## 2. Publication director
 
@@ -34,4 +36,26 @@ Abstract shapes are graphic elements and do not depict the practice. Personal ph
 
 ## 6. Contact and document status
 
-[TO COMPLETE: the publisher’s contact details.] Missing practical and legal details must be supplied before this page is presented as final. The Terms of Use and privacy policy complement this page.
+Contact: migueresv@gmail.com · +33 6 63 83 44 50. Instagram profile: @valmigueres. Remaining practical and legal details must be supplied before this page is presented as final. The Terms of Use and privacy policy complement this page.
+
+## Complete according to the actual legal status and operation
+
+Publisher’s legal status: [TO COMPLETE / CONFIRM]
+
+Registered name, if different: [TO COMPLETE / CONFIRM]
+
+Applicable registration and register: [TO COMPLETE / CONFIRM]
+
+Business or registered address: [TO COMPLETE / CONFIRM]
+
+Professional email: migueresv@gmail.com
+
+Professional phone: 06 63 83 44 50
+
+Publication director: [TO COMPLETE / CONFIRM]
+
+VAT and other status-dependent information: [TO COMPLETE / CONFIRM]
+
+Regulated-profession information, only where applicable: [TO COMPLETE / CONFIRM]
+
+Contracting hosting entity and statutory contact details: [TO COMPLETE / CONFIRM]

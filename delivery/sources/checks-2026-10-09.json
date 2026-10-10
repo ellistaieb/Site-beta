@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cnil-information",
+    "url": "https://www.cnil.fr/fr/rgpd-exemples-de-mentions-dinformation",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "cnil-cookies",
+    "url": "https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies/que-dit-la-loi",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "cnil-retention",
+    "url": "https://www.cnil.fr/fr/les-durees-de-conservation-des-donnees",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "legal-notices",
+    "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F31228",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "gdpr",
+    "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=fr",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "youtube-banner",
+    "url": "https://support.google.com/youtube/answer/2972003?hl=fr",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "youtube-thumbnails",
+    "url": "https://support.google.com/youtube/answer/72431?hl=fr",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "youtube-end-screen",
+    "url": "https://support.google.com/youtube/answer/6388789?hl=fr",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "instagram-images",
+    "url": "https://help.instagram.com/1631821640426723",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "instagram-reels",
+    "url": "https://help.instagram.com/1038071743007909",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "whatsapp-business",
+    "url": "https://business.whatsapp.com/products/business-app",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "id": "github-privacy",
+    "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+    "status": 200,
+    "bytes": 304812
+  },
+  {
+    "id": "github-pages",
+    "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages",
+    "status": 200,
+    "bytes": 94033
+  },
+  {
+    "id": "formspree-privacy",
+    "url": "https://formspree.io/legal/privacy-policy/",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

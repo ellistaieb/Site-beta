@@ -170,7 +170,7 @@
   "choose": "Choose an area of support",
   "privacy_note": "Your contact details are used only to respond to your enquiry. Please avoid medical or sensitive details.",
   "privacy_link": "Privacy",
-  "unavailable": "Online enquiries will be available soon.",
+  "unavailable": "The online form is inactive. You can contact me directly by email or phone.",
   "sending": "Sending…",
   "success": "Your enquiry has been sent. Thank you for your message.",
   "error": "Your enquiry could not be sent. Please try again or use the contact details provided.",
@@ -228,5 +228,6 @@
   "welcome_signature": "Space to move forward.",
   "language_choice": "Explore in English",
   "terms": "Terms of Use",
-  "privacy_note_inactive": "The form is currently inactive: no message is sent. Please avoid entering medical or sensitive information."
+  "privacy_note_inactive": "The form is currently inactive: no message is sent. Please avoid entering medical or sensitive information.",
+  "resources": "Resources"
 }

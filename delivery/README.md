@@ -1,6 +1,6 @@
 # Valérie Migueres — Kit réseaux et brouillons juridiques
 
-Livraison de travail du 9 octobre 2026. Palette et identité existantes conservées. Les éléments sont prêts à adapter. Deux sources officielles GitHub ont été consultées ; les spécifications actuelles des plateformes et les sources CNIL, publiques françaises et européennes restent à vérifier à cause de refus réseau 403. Les résultats exacts et références sont dans `sources`.
+Livraison mise à jour le 10 octobre 2026. Palette et identité existantes conservées. Les éléments sont prêts à adapter. Les sources GitHub, Service Public, EUR-Lex et YouTube ont été consultées ; CNIL, Instagram, WhatsApp et Formspree restent partiellement ou entièrement inaccessibles. Les résultats exacts et références sont dans `sources`.
 
 ## Ouvrir les livrables
 
@@ -13,7 +13,7 @@ Livraison de travail du 9 octobre 2026. Palette et identité existantes conserv�
 - `legal/site/index.html` : prévisualisation navigable du site de travail avec ses six brouillons juridiques.
 - `legal/*.md` : textes juridiques séparés ; `legal/AUDIT.md` : état actif/prévu.
 
-Depuis le dossier décompressé, lancer :
+Ouvrir `index.html` pour parcourir les exports, ou utiliser directement la galerie et le studio depuis la page Ressources du site. Pour une utilisation locale depuis le dossier décompressé, lancer :
 
 ```sh
 python -m http.server 8004
@@ -27,7 +27,7 @@ Puis ouvrir le studio à `/social/editor.html` ou le site à `/legal/site/index.
 - **WhatsApp Business : 9 visuels** — profil commun, trois statuts FR/EN et fiche d’accompagnements FR/EN.
 - **YouTube : 15 visuels** — profil commun, bannière, trois miniatures, titre transparent, intro statique et fin, avec versions FR/EN séparées.
 - **Deux intros animées** — MP4 H.264 1920 × 1080, 25 fps, 3 secondes, aucun flux audio ; fondu doux, PNG statique fourni.
-- **Six miniatures JPG** — alternatives aux PNG, chacune sous 2 Mo.
+- **Douze miniatures JPG** — six en 1280 × 720 et six supplémentaires en 3840 × 2160, chacune sous 2 Mo.
 - **Neuf logos** — SVG et PNG transparents, noms et monogrammes cohérents.
 
 Les boutons dessinés ne sont pas des liens. Ajouter manuellement un sticker Lien dans Instagram ou les éléments de fin dans YouTube Studio. Les visuels annoncent des sujets proposés : les descriptions et légendes doivent correspondre aux vidéos réellement filmées avant diffusion. Aucun portrait, cabinet, disponibilité, qualification, financement ou résultat n’est inventé.
@@ -57,10 +57,10 @@ Les trois pages existent en français et anglais, avec un bandeau de brouillon, 
 
 À confirmer :
 
-- Entité qui édite le site, statut, immatriculation applicable, adresse et contacts professionnels.
+- Entité qui édite le site, statut, immatriculation applicable et adresse. E-mail confirmé : migueresv@gmail.com ; téléphone : 06 63 83 44 50 ; Instagram : @valmigueres.
 - Responsable de publication et, si applicable, informations TVA/professionnelles.
 - Entité contractuelle d’hébergement, coordonnées légales, rôles, sous-traitants, journaux et localisation.
-- Responsable de traitement et contact des droits ; finalités, bases légales, durées justifiées et garanties de transfert.
+- Responsable de traitement ; finalités, bases légales, durées justifiées et garanties de transfert. Le contact des droits publié est migueresv@gmail.com ; les conditions exactes du compte Gmail restent à examiner.
 - Pour un futur formulaire : destinataires et contrat du service, données nécessaires, base appropriée, conservation et garanties ; pour une réservation/vente, informations et conditions spécifiques.
 - Langues de consultation, modalités et tarifs provisoires avant toute communication finale ; photos réelles et leurs droits si ajoutées.
 
@@ -68,6 +68,6 @@ Aucune durée de conservation, certification ou coordonnée inconnue n’est inv
 
 ## Publication et réseau
 
-Cette livraison est préparée sur une branche dédiée : elle ne modifie pas `main`, le workflow Pages existant ne déploie que les pushes sur `main`, et aucun contenu n’est publié sur les réseaux. Les brouillons peuvent être revus sans changer le site public.
+La publication de cette livraison sur le site a été expressément demandée le 10 octobre 2026. Le workflow Pages déploie les pushes sur `main`. La page Ressources donne accès au guide, au ZIP, à la galerie et au studio. Les mentions légales, CGU et confidentialité restent explicitement à compléter ; aucun contenu n’est publié sur les réseaux sociaux.
 
-Les domaines officiels nécessaires ont été enregistrés dans le brouillon réseau de l’environnement. Revoir et enregistrer ces changements dans les paramètres puis publier l’environnement pour permettre une nouvelle vérification des sources ; le simple enregistrement du brouillon par l’agent ne les active pas. Consulter `sources/NOTE-SOURCES.md` pour les URLs et le statut exact des formats retenus.
+Les domaines officiels ajoutés à l’environnement permettent désormais de consulter Service Public, EUR-Lex et YouTube. CNIL et Formspree renvoient toujours 403, Instagram ne fournit pas le contenu des spécifications et WhatsApp reste inaccessible. Consulter `sources/NOTE-SOURCES.md` pour les URLs et le statut exact des formats retenus.
